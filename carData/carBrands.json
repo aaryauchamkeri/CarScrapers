@@ -1,0 +1,341 @@
+[{
+    "disabled": false,
+    "label": "Acura",
+    "value": "ACURA"
+},
+{
+    "disabled": false,
+    "label": "Alfa Romeo",
+    "value": "ALFA"
+},
+{
+    "disabled": false,
+    "label": "AMC",
+    "value": "AMC"
+},
+{
+    "disabled": false,
+    "label": "Aston Martin",
+    "value": "ASTON"
+},
+{
+    "disabled": false,
+    "label": "Audi",
+    "value": "AUDI"
+},
+{
+    "disabled": false,
+    "label": "Bentley",
+    "value": "BENTL"
+},
+{
+    "disabled": false,
+    "label": "BMW",
+    "value": "BMW"
+},
+{
+    "disabled": false,
+    "label": "Bugatti",
+    "value": "BUGATTI"
+},
+{
+    "disabled": false,
+    "label": "Buick",
+    "value": "BUICK"
+},
+{
+    "disabled": false,
+    "label": "Cadillac",
+    "value": "CAD"
+},
+{
+    "disabled": false,
+    "label": "Chevrolet",
+    "value": "CHEV"
+},
+{
+    "disabled": false,
+    "label": "Chrysler",
+    "value": "CHRY"
+},
+{
+    "disabled": false,
+    "label": "Daewoo",
+    "value": "DAEW"
+},
+{
+    "disabled": false,
+    "label": "Datsun",
+    "value": "DATSUN"
+},
+{
+    "disabled": false,
+    "label": "DeLorean",
+    "value": "DELOREAN"
+},
+{
+    "disabled": false,
+    "label": "Dodge",
+    "value": "DODGE"
+},
+{
+    "disabled": false,
+    "label": "Eagle",
+    "value": "EAGLE"
+},
+{
+    "disabled": false,
+    "label": "Ferrari",
+    "value": "FER"
+},
+{
+    "disabled": false,
+    "label": "FIAT",
+    "value": "FIAT"
+},
+{
+    "disabled": false,
+    "label": "Fisker",
+    "value": "FISK"
+},
+{
+    "disabled": false,
+    "label": "Ford",
+    "value": "FORD"
+},
+{
+    "disabled": false,
+    "label": "Freightliner",
+    "value": "FREIGHT"
+},
+{
+    "disabled": false,
+    "label": "Genesis",
+    "value": "GENESIS"
+},
+{
+    "disabled": false,
+    "label": "Geo",
+    "value": "GEO"
+},
+{
+    "disabled": false,
+    "label": "GMC",
+    "value": "GMC"
+},
+{
+    "disabled": false,
+    "label": "Honda",
+    "value": "HONDA"
+},
+{
+    "disabled": false,
+    "label": "HUMMER",
+    "value": "AMGEN"
+},
+{
+    "disabled": false,
+    "label": "Hyundai",
+    "value": "HYUND"
+},
+{
+    "disabled": false,
+    "label": "INFINITI",
+    "value": "INFIN"
+},
+{
+    "disabled": false,
+    "label": "Isuzu",
+    "value": "ISU"
+},
+{
+    "disabled": false,
+    "label": "Jaguar",
+    "value": "JAG"
+},
+{
+    "disabled": false,
+    "label": "Jeep",
+    "value": "JEEP"
+},
+{
+    "disabled": false,
+    "label": "Karma",
+    "value": "KARMA"
+},
+{
+    "disabled": false,
+    "label": "Kia",
+    "value": "KIA"
+},
+{
+    "disabled": false,
+    "label": "Lamborghini",
+    "value": "LAM"
+},
+{
+    "disabled": false,
+    "label": "Land Rover",
+    "value": "ROV"
+},
+{
+    "disabled": false,
+    "label": "Lexus",
+    "value": "LEXUS"
+},
+{
+    "disabled": false,
+    "label": "Lincoln",
+    "value": "LINC"
+},
+{
+    "disabled": false,
+    "label": "Lotus",
+    "value": "LOTUS"
+},
+{
+    "disabled": false,
+    "label": "Lucid",
+    "value": "LUCID"
+},
+{
+    "disabled": false,
+    "label": "Maserati",
+    "value": "MAS"
+},
+{
+    "disabled": false,
+    "label": "Maybach",
+    "value": "MAYBACH"
+},
+{
+    "disabled": false,
+    "label": "MAZDA",
+    "value": "MAZDA"
+},
+{
+    "disabled": false,
+    "label": "McLaren",
+    "value": "MCLAREN"
+},
+{
+    "disabled": false,
+    "label": "Mercedes-Benz",
+    "value": "MB"
+},
+{
+    "disabled": false,
+    "label": "Mercury",
+    "value": "MERC"
+},
+{
+    "disabled": false,
+    "label": "MINI",
+    "value": "MINI"
+},
+{
+    "disabled": false,
+    "label": "Mitsubishi",
+    "value": "MIT"
+},
+{
+    "disabled": false,
+    "label": "Nissan",
+    "value": "NISSAN"
+},
+{
+    "disabled": false,
+    "label": "Oldsmobile",
+    "value": "OLDS"
+},
+{
+    "disabled": false,
+    "label": "Plymouth",
+    "value": "PLYM"
+},
+{
+    "disabled": false,
+    "label": "Polestar",
+    "value": "POLESTAR"
+},
+{
+    "disabled": false,
+    "label": "Pontiac",
+    "value": "PONT"
+},
+{
+    "disabled": false,
+    "label": "Porsche",
+    "value": "POR"
+},
+{
+    "disabled": false,
+    "label": "RAM",
+    "value": "RAM"
+},
+{
+    "disabled": false,
+    "label": "Rivian",
+    "value": "RIVIAN"
+},
+{
+    "disabled": false,
+    "label": "Rolls-Royce",
+    "value": "RR"
+},
+{
+    "disabled": false,
+    "label": "Saab",
+    "value": "SAAB"
+},
+{
+    "disabled": false,
+    "label": "Saturn",
+    "value": "SATURN"
+},
+{
+    "disabled": false,
+    "label": "Scion",
+    "value": "SCION"
+},
+{
+    "disabled": false,
+    "label": "smart",
+    "value": "SMART"
+},
+{
+    "disabled": false,
+    "label": "Subaru",
+    "value": "SUB"
+},
+{
+    "disabled": false,
+    "label": "Suzuki",
+    "value": "SUZUKI"
+},
+{
+    "disabled": false,
+    "label": "Tesla",
+    "selected": true,
+    "value": "TESLA"
+},
+{
+    "disabled": false,
+    "label": "Toyota",
+    "value": "TOYOTA"
+},
+{
+    "disabled": false,
+    "label": "Volkswagen",
+    "value": "VOLKS"
+},
+{
+    "disabled": false,
+    "label": "Volvo",
+    "value": "VOLVO"
+},
+{
+    "disabled": false,
+    "label": "Yugo",
+    "value": "YUGO"
+}]

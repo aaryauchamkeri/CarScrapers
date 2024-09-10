@@ -1,0 +1,8228 @@
+{
+  "ACURA": [
+    {
+      "disabled": false,
+      "label": "CL",
+      "value": "ACUCL"
+    },
+    {
+      "disabled": false,
+      "label": "ILX",
+      "value": "ILX"
+    },
+    {
+      "disabled": false,
+      "label": "Integra",
+      "value": "INTEG"
+    },
+    {
+      "disabled": false,
+      "label": "Legend",
+      "value": "LEGEND"
+    },
+    {
+      "disabled": false,
+      "label": "MDX",
+      "value": "MDX"
+    },
+    {
+      "disabled": false,
+      "label": "NSX",
+      "value": "NSX"
+    },
+    {
+      "disabled": false,
+      "label": "Other Acura Models",
+      "value": "ACUOTH"
+    },
+    {
+      "disabled": false,
+      "label": "RDX",
+      "value": "RDX"
+    },
+    {
+      "disabled": false,
+      "label": "RL",
+      "value": "RL"
+    },
+    {
+      "disabled": false,
+      "label": "RLX",
+      "value": "RLX"
+    },
+    {
+      "disabled": false,
+      "label": "RSX",
+      "value": "RSX"
+    },
+    {
+      "disabled": false,
+      "label": "SLX",
+      "value": "SLX"
+    },
+    {
+      "disabled": false,
+      "label": "TL",
+      "value": "TL"
+    },
+    {
+      "disabled": false,
+      "label": "TLX",
+      "value": "ACUTLX"
+    },
+    {
+      "disabled": false,
+      "label": "TSX",
+      "value": "TSX"
+    },
+    {
+      "disabled": false,
+      "label": "Vigor",
+      "value": "VIGOR"
+    },
+    {
+      "disabled": false,
+      "label": "ZDX",
+      "value": "ZDX"
+    }
+  ],
+  "ALFA": [
+    {
+      "disabled": false,
+      "label": "164",
+      "value": "ALFA164"
+    },
+    {
+      "disabled": false,
+      "label": "4C",
+      "value": "ALFA4C"
+    },
+    {
+      "disabled": false,
+      "label": "8C Competizione",
+      "value": "ALFA8C"
+    },
+    {
+      "disabled": false,
+      "label": "Giulia",
+      "value": "ALFAGIULIA"
+    },
+    {
+      "disabled": false,
+      "label": "GTV-6",
+      "value": "ALFAGT"
+    },
+    {
+      "disabled": false,
+      "label": "Milano",
+      "value": "MIL"
+    },
+    {
+      "disabled": false,
+      "label": "Other Alfa Romeo Models",
+      "value": "ALFAOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Spider",
+      "value": "SPID"
+    },
+    {
+      "disabled": false,
+      "label": "Stelvio",
+      "value": "ALFASTELV"
+    },
+    {
+      "disabled": false,
+      "label": "Tonale",
+      "value": "ALFATONALE"
+    }
+  ],
+  "AMC": [
+    {
+      "disabled": false,
+      "label": "Alliance",
+      "value": "AMCALLIAN"
+    },
+    {
+      "disabled": false,
+      "label": "Concord",
+      "value": "CON"
+    },
+    {
+      "disabled": false,
+      "label": "Eagle",
+      "value": "EAGLE"
+    },
+    {
+      "disabled": false,
+      "label": "Encore",
+      "value": "AMCENC"
+    },
+    {
+      "disabled": false,
+      "label": "Other AMC Models",
+      "value": "AMCOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Spirit",
+      "value": "AMCSPIRIT"
+    }
+  ],
+  "ASTON": [
+    {
+      "disabled": false,
+      "label": "DB11",
+      "value": "ASTONDB11"
+    },
+    {
+      "disabled": false,
+      "label": "DB12",
+      "value": "ASTONDB12"
+    },
+    {
+      "disabled": false,
+      "label": "DB7",
+      "value": "DB7"
+    },
+    {
+      "disabled": false,
+      "label": "DB9",
+      "value": "DB9"
+    },
+    {
+      "disabled": false,
+      "label": "DBS",
+      "value": "DBS"
+    },
+    {
+      "disabled": false,
+      "label": "DBX",
+      "value": "ASTONDBX"
+    },
+    {
+      "disabled": false,
+      "label": "Lagonda",
+      "value": "LAGONDA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Aston Martin Models",
+      "value": "ASTOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Rapide",
+      "value": "RAPIDE"
+    },
+    {
+      "disabled": false,
+      "label": "Rapide S",
+      "value": "ASTRAPIDES"
+    },
+    {
+      "disabled": false,
+      "label": "V12 Vantage",
+      "value": "V12VANT"
+    },
+    {
+      "disabled": false,
+      "label": "V8 Vantage",
+      "value": "VANTAGE"
+    },
+    {
+      "disabled": false,
+      "label": "Vanquish",
+      "value": "VANQUISH"
+    },
+    {
+      "disabled": false,
+      "label": "Virage",
+      "value": "VIRAGE"
+    }
+  ],
+  "AUDI": [
+    {
+      "disabled": false,
+      "label": "100",
+      "value": "AUDI100"
+    },
+    {
+      "disabled": false,
+      "label": "200",
+      "value": "AUDI200"
+    },
+    {
+      "disabled": false,
+      "label": "4000",
+      "value": "4000"
+    },
+    {
+      "disabled": false,
+      "label": "5000",
+      "value": "5000"
+    },
+    {
+      "disabled": false,
+      "label": "80",
+      "value": "80"
+    },
+    {
+      "disabled": false,
+      "label": "90",
+      "value": "90"
+    },
+    {
+      "disabled": false,
+      "label": "A3",
+      "value": "A3"
+    },
+    {
+      "disabled": false,
+      "label": "A4",
+      "value": "A4"
+    },
+    {
+      "disabled": false,
+      "label": "A5",
+      "value": "A5"
+    },
+    {
+      "disabled": false,
+      "label": "A6",
+      "value": "A6"
+    },
+    {
+      "disabled": false,
+      "label": "A7",
+      "value": "A7"
+    },
+    {
+      "disabled": false,
+      "label": "A8",
+      "value": "A8"
+    },
+    {
+      "disabled": false,
+      "label": "allroad",
+      "value": "ALLRDQUA"
+    },
+    {
+      "disabled": false,
+      "label": "Cabriolet",
+      "value": "AUDICABRI"
+    },
+    {
+      "disabled": false,
+      "label": "Coupe",
+      "value": "AUDICOUPE"
+    },
+    {
+      "disabled": false,
+      "label": "e-tron",
+      "value": "AUDIETRON"
+    },
+    {
+      "disabled": false,
+      "label": "e-tron GT",
+      "value": "AUDETRONGT"
+    },
+    {
+      "disabled": false,
+      "label": "e-tron S",
+      "value": "AUDIETRONS"
+    },
+    {
+      "disabled": false,
+      "label": "Other Audi Models",
+      "value": "AUDOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Q3",
+      "value": "Q3"
+    },
+    {
+      "disabled": false,
+      "label": "Q4 e-tron",
+      "value": "AUDQ4ETRN"
+    },
+    {
+      "disabled": false,
+      "label": "Q5",
+      "value": "Q5"
+    },
+    {
+      "disabled": false,
+      "label": "Q7",
+      "value": "Q7"
+    },
+    {
+      "disabled": false,
+      "label": "Q8",
+      "value": "AUDIQ8"
+    },
+    {
+      "disabled": false,
+      "label": "Q8 e-tron",
+      "value": "AUDIQ8ETRN"
+    },
+    {
+      "disabled": false,
+      "label": "Quattro",
+      "value": "QUATTR"
+    },
+    {
+      "disabled": false,
+      "label": "R8",
+      "value": "R8"
+    },
+    {
+      "disabled": false,
+      "label": "RS 3",
+      "value": "AUDIRS3"
+    },
+    {
+      "disabled": false,
+      "label": "RS 4",
+      "value": "RS4"
+    },
+    {
+      "disabled": false,
+      "label": "RS 5",
+      "value": "RS5"
+    },
+    {
+      "disabled": false,
+      "label": "RS 6",
+      "value": "RS6"
+    },
+    {
+      "disabled": false,
+      "label": "RS 7",
+      "value": "AUDIRS7"
+    },
+    {
+      "disabled": false,
+      "label": "RS e-tron GT",
+      "value": "AUDRSETRON"
+    },
+    {
+      "disabled": false,
+      "label": "RS Q8",
+      "value": "AUDIRSQ8"
+    },
+    {
+      "disabled": false,
+      "label": "S3",
+      "value": "AUDS3"
+    },
+    {
+      "disabled": false,
+      "label": "S4",
+      "value": "S4"
+    },
+    {
+      "disabled": false,
+      "label": "S5",
+      "value": "S5"
+    },
+    {
+      "disabled": false,
+      "label": "S6",
+      "value": "S6"
+    },
+    {
+      "disabled": false,
+      "label": "S7",
+      "value": "S7"
+    },
+    {
+      "disabled": false,
+      "label": "S8",
+      "value": "S8"
+    },
+    {
+      "disabled": false,
+      "label": "SQ5",
+      "value": "AUDISQ5"
+    },
+    {
+      "disabled": false,
+      "label": "SQ7",
+      "value": "AUDISQ7"
+    },
+    {
+      "disabled": false,
+      "label": "SQ8",
+      "value": "AUDISQ8"
+    },
+    {
+      "disabled": false,
+      "label": "TT",
+      "value": "TT"
+    },
+    {
+      "disabled": false,
+      "label": "TT RS",
+      "value": "TTRS"
+    },
+    {
+      "disabled": false,
+      "label": "TTS",
+      "value": "TTS"
+    },
+    {
+      "disabled": false,
+      "label": "V8 Quattro",
+      "value": "V8"
+    }
+  ],
+  "BENTL": [
+    {
+      "disabled": false,
+      "label": "Arnage",
+      "value": "ARNAGE"
+    },
+    {
+      "disabled": false,
+      "label": "Azure",
+      "value": "AZURE"
+    },
+    {
+      "disabled": false,
+      "label": "Bentayga",
+      "value": "BENBENTAY"
+    },
+    {
+      "disabled": false,
+      "label": "Brooklands",
+      "value": "BROOKLANDS"
+    },
+    {
+      "disabled": false,
+      "label": "Continental",
+      "value": "BENCONT"
+    },
+    {
+      "disabled": false,
+      "label": "Eight",
+      "value": "BENEIGHT"
+    },
+    {
+      "disabled": false,
+      "label": "Flying Spur",
+      "value": "BENFLYSPUR"
+    },
+    {
+      "disabled": false,
+      "label": "Mulsanne",
+      "value": "BENMUL"
+    },
+    {
+      "disabled": false,
+      "label": "Other Bentley Models",
+      "value": "BENOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Turbo R",
+      "value": "BENTURBO"
+    }
+  ],
+  "BMW": [
+    {
+      "disabled": false,
+      "label": "1 Series M",
+      "value": "1SERIESM"
+    },
+    {
+      "disabled": false,
+      "label": "128i",
+      "value": "128I"
+    },
+    {
+      "disabled": false,
+      "label": "135i",
+      "value": "135I"
+    },
+    {
+      "disabled": false,
+      "label": "135is",
+      "value": "135IS"
+    },
+    {
+      "disabled": false,
+      "label": "228i",
+      "value": "BMW228I"
+    },
+    {
+      "disabled": false,
+      "label": "228i Gran Coupe",
+      "value": "BMW228IGC"
+    },
+    {
+      "disabled": false,
+      "label": "228i xDrive",
+      "value": "BMW228IXD"
+    },
+    {
+      "disabled": false,
+      "label": "228i xDrive Gran Coupe",
+      "value": "BMW228XDGC"
+    },
+    {
+      "disabled": false,
+      "label": "230i",
+      "value": "BMW230I"
+    },
+    {
+      "disabled": false,
+      "label": "230i xDrive",
+      "value": "BMW230IXD"
+    },
+    {
+      "disabled": false,
+      "label": "318i",
+      "value": "318I"
+    },
+    {
+      "disabled": false,
+      "label": "318iS",
+      "value": "318IS"
+    },
+    {
+      "disabled": false,
+      "label": "318ti",
+      "value": "318TI"
+    },
+    {
+      "disabled": false,
+      "label": "320i",
+      "value": "320I"
+    },
+    {
+      "disabled": false,
+      "label": "320i xDrive",
+      "value": "320IXD"
+    },
+    {
+      "disabled": false,
+      "label": "323ci",
+      "value": "323CI"
+    },
+    {
+      "disabled": false,
+      "label": "323i",
+      "value": "323I"
+    },
+    {
+      "disabled": false,
+      "label": "323is",
+      "value": "323IS"
+    },
+    {
+      "disabled": false,
+      "label": "325",
+      "value": "BMW325"
+    },
+    {
+      "disabled": false,
+      "label": "325Ci",
+      "value": "325CI"
+    },
+    {
+      "disabled": false,
+      "label": "325e",
+      "value": "325E"
+    },
+    {
+      "disabled": false,
+      "label": "325es",
+      "value": "325ES"
+    },
+    {
+      "disabled": false,
+      "label": "325i",
+      "value": "325I"
+    },
+    {
+      "disabled": false,
+      "label": "325is",
+      "value": "325IS"
+    },
+    {
+      "disabled": false,
+      "label": "325iX",
+      "value": "325IX"
+    },
+    {
+      "disabled": false,
+      "label": "325xi",
+      "value": "325XI"
+    },
+    {
+      "disabled": false,
+      "label": "328Ci",
+      "value": "328CI"
+    },
+    {
+      "disabled": false,
+      "label": "328d",
+      "value": "BMW328D"
+    },
+    {
+      "disabled": false,
+      "label": "328d xDrive",
+      "value": "BMW328DXD"
+    },
+    {
+      "disabled": false,
+      "label": "328i",
+      "value": "328I"
+    },
+    {
+      "disabled": false,
+      "label": "328i Gran Turismo xDrive",
+      "value": "BMW328GTXD"
+    },
+    {
+      "disabled": false,
+      "label": "328i xDrive",
+      "value": "328IXD"
+    },
+    {
+      "disabled": false,
+      "label": "328iS",
+      "value": "328IS"
+    },
+    {
+      "disabled": false,
+      "label": "328xi",
+      "value": "328XI"
+    },
+    {
+      "disabled": false,
+      "label": "330Ci",
+      "value": "330CI"
+    },
+    {
+      "disabled": false,
+      "label": "330e",
+      "value": "BMW330E"
+    },
+    {
+      "disabled": false,
+      "label": "330e xDrive",
+      "value": "BMW330EXD"
+    },
+    {
+      "disabled": false,
+      "label": "330i",
+      "value": "330I"
+    },
+    {
+      "disabled": false,
+      "label": "330i Gran Turismo xDrive",
+      "value": "BMW330XDGT"
+    },
+    {
+      "disabled": false,
+      "label": "330i xDrive",
+      "value": "BMW330IXD"
+    },
+    {
+      "disabled": false,
+      "label": "330xi",
+      "value": "330XI"
+    },
+    {
+      "disabled": false,
+      "label": "335d",
+      "value": "335D"
+    },
+    {
+      "disabled": false,
+      "label": "335i",
+      "value": "335I"
+    },
+    {
+      "disabled": false,
+      "label": "335i Gran Turismo xDrive",
+      "value": "BMW335GTXD"
+    },
+    {
+      "disabled": false,
+      "label": "335i xDrive",
+      "value": "335IXD"
+    },
+    {
+      "disabled": false,
+      "label": "335is",
+      "value": "335IS"
+    },
+    {
+      "disabled": false,
+      "label": "335xi",
+      "value": "335XI"
+    },
+    {
+      "disabled": false,
+      "label": "340i",
+      "value": "BMW340I"
+    },
+    {
+      "disabled": false,
+      "label": "340i Gran Turismo xDrive",
+      "value": "BMW340XDGT"
+    },
+    {
+      "disabled": false,
+      "label": "340i xDrive",
+      "value": "BMW340IXD"
+    },
+    {
+      "disabled": false,
+      "label": "428i",
+      "value": "BMW428I"
+    },
+    {
+      "disabled": false,
+      "label": "428i Gran Coupe",
+      "value": "BMW428GC"
+    },
+    {
+      "disabled": false,
+      "label": "428i Gran Coupe xDrive",
+      "value": "BMW428GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "428i xDrive",
+      "value": "BMW428IXD"
+    },
+    {
+      "disabled": false,
+      "label": "430i",
+      "value": "BMW430I"
+    },
+    {
+      "disabled": false,
+      "label": "430i Gran Coupe",
+      "value": "BMW430GC"
+    },
+    {
+      "disabled": false,
+      "label": "430i Gran Coupe xDrive",
+      "value": "BMW430GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "430i xDrive",
+      "value": "BMW430IXD"
+    },
+    {
+      "disabled": false,
+      "label": "435i",
+      "value": "BMW435I"
+    },
+    {
+      "disabled": false,
+      "label": "435i Gran Coupe",
+      "value": "BMW435GC"
+    },
+    {
+      "disabled": false,
+      "label": "435i Gran Coupe xDrive",
+      "value": "BMW435GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "435i xDrive",
+      "value": "BMW435IXD"
+    },
+    {
+      "disabled": false,
+      "label": "440i",
+      "value": "BMW440I"
+    },
+    {
+      "disabled": false,
+      "label": "440i Gran Coupe",
+      "value": "BMW440GC"
+    },
+    {
+      "disabled": false,
+      "label": "440i Gran Coupe xDrive",
+      "value": "BMW440GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "440i xDrive",
+      "value": "BMW440IXD"
+    },
+    {
+      "disabled": false,
+      "label": "524td",
+      "value": "524TD"
+    },
+    {
+      "disabled": false,
+      "label": "525i",
+      "value": "525I"
+    },
+    {
+      "disabled": false,
+      "label": "525xi",
+      "value": "525XI"
+    },
+    {
+      "disabled": false,
+      "label": "528e",
+      "value": "528E"
+    },
+    {
+      "disabled": false,
+      "label": "528i",
+      "value": "528I"
+    },
+    {
+      "disabled": false,
+      "label": "528i xDrive",
+      "value": "528IXD"
+    },
+    {
+      "disabled": false,
+      "label": "528xi",
+      "value": "528XI"
+    },
+    {
+      "disabled": false,
+      "label": "530e",
+      "value": "BMW530E"
+    },
+    {
+      "disabled": false,
+      "label": "530e xDrive",
+      "value": "BMW530EXD"
+    },
+    {
+      "disabled": false,
+      "label": "530i",
+      "value": "530I"
+    },
+    {
+      "disabled": false,
+      "label": "530i xDrive",
+      "value": "BMW530IXD"
+    },
+    {
+      "disabled": false,
+      "label": "530xi",
+      "value": "530XI"
+    },
+    {
+      "disabled": false,
+      "label": "533i",
+      "value": "533I"
+    },
+    {
+      "disabled": false,
+      "label": "535d",
+      "value": "BMW535D"
+    },
+    {
+      "disabled": false,
+      "label": "535d xDrive",
+      "value": "BMW535DXD"
+    },
+    {
+      "disabled": false,
+      "label": "535i",
+      "value": "535I"
+    },
+    {
+      "disabled": false,
+      "label": "535i Gran Turismo",
+      "value": "535IGT"
+    },
+    {
+      "disabled": false,
+      "label": "535i Gran Turismo xDrive",
+      "value": "535IGTXD"
+    },
+    {
+      "disabled": false,
+      "label": "535i xDrive",
+      "value": "535IXD"
+    },
+    {
+      "disabled": false,
+      "label": "535xi",
+      "value": "535XI"
+    },
+    {
+      "disabled": false,
+      "label": "540d xDrive",
+      "value": "BMW540DXD"
+    },
+    {
+      "disabled": false,
+      "label": "540i",
+      "value": "540I"
+    },
+    {
+      "disabled": false,
+      "label": "540i xDrive",
+      "value": "BMW540IXD"
+    },
+    {
+      "disabled": false,
+      "label": "545i",
+      "value": "545I"
+    },
+    {
+      "disabled": false,
+      "label": "550i",
+      "value": "550I"
+    },
+    {
+      "disabled": false,
+      "label": "550i Gran Turismo",
+      "value": "550IGT"
+    },
+    {
+      "disabled": false,
+      "label": "550i Gran Turismo xDrive",
+      "value": "550IGTXD"
+    },
+    {
+      "disabled": false,
+      "label": "550i xDrive",
+      "value": "550IXD"
+    },
+    {
+      "disabled": false,
+      "label": "633CSi",
+      "value": "633CSI"
+    },
+    {
+      "disabled": false,
+      "label": "635CSi",
+      "value": "635CSI"
+    },
+    {
+      "disabled": false,
+      "label": "640i",
+      "value": "640I"
+    },
+    {
+      "disabled": false,
+      "label": "640i Gran Coupe",
+      "value": "640IGC"
+    },
+    {
+      "disabled": false,
+      "label": "640i Gran Coupe xDrive",
+      "value": "BMW640GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "640i Gran Turismo xDrive",
+      "value": "BMW640GTXD"
+    },
+    {
+      "disabled": false,
+      "label": "640i xDrive",
+      "value": "BMW640IXD"
+    },
+    {
+      "disabled": false,
+      "label": "645Ci",
+      "value": "645CI"
+    },
+    {
+      "disabled": false,
+      "label": "650i",
+      "value": "650I"
+    },
+    {
+      "disabled": false,
+      "label": "650i Gran Coupe",
+      "value": "650IGC"
+    },
+    {
+      "disabled": false,
+      "label": "650i Gran Coupe xDrive",
+      "value": "650IGCXD"
+    },
+    {
+      "disabled": false,
+      "label": "650i xDrive",
+      "value": "650IXD"
+    },
+    {
+      "disabled": false,
+      "label": "733i",
+      "value": "733I"
+    },
+    {
+      "disabled": false,
+      "label": "735i",
+      "value": "735I"
+    },
+    {
+      "disabled": false,
+      "label": "735iL",
+      "value": "735IL"
+    },
+    {
+      "disabled": false,
+      "label": "740e xDrive",
+      "value": "BMW740EXD"
+    },
+    {
+      "disabled": false,
+      "label": "740i",
+      "value": "740I"
+    },
+    {
+      "disabled": false,
+      "label": "740i xDrive",
+      "value": "BMW740IXD"
+    },
+    {
+      "disabled": false,
+      "label": "740iL",
+      "value": "740IL"
+    },
+    {
+      "disabled": false,
+      "label": "740Ld xDrive",
+      "value": "BMW740LDXD"
+    },
+    {
+      "disabled": false,
+      "label": "740Li",
+      "value": "740LI"
+    },
+    {
+      "disabled": false,
+      "label": "740Li xDrive",
+      "value": "740LIXD"
+    },
+    {
+      "disabled": false,
+      "label": "745e xDrive",
+      "value": "BMW745EXD"
+    },
+    {
+      "disabled": false,
+      "label": "745i",
+      "value": "745I"
+    },
+    {
+      "disabled": false,
+      "label": "745Li",
+      "value": "745LI"
+    },
+    {
+      "disabled": false,
+      "label": "750e xDrive",
+      "value": "BMW750EXD"
+    },
+    {
+      "disabled": false,
+      "label": "750i",
+      "value": "750I"
+    },
+    {
+      "disabled": false,
+      "label": "750i xDrive",
+      "value": "750IXD"
+    },
+    {
+      "disabled": false,
+      "label": "750iL",
+      "value": "750IL"
+    },
+    {
+      "disabled": false,
+      "label": "750Li",
+      "value": "750LI"
+    },
+    {
+      "disabled": false,
+      "label": "750Li xDrive",
+      "value": "750LIXD"
+    },
+    {
+      "disabled": false,
+      "label": "760i",
+      "value": "760I"
+    },
+    {
+      "disabled": false,
+      "label": "760i xDrive",
+      "value": "BMW760IXD"
+    },
+    {
+      "disabled": false,
+      "label": "760Li",
+      "value": "760LI"
+    },
+    {
+      "disabled": false,
+      "label": "840Ci",
+      "value": "840CI"
+    },
+    {
+      "disabled": false,
+      "label": "840i",
+      "value": "BMW840I"
+    },
+    {
+      "disabled": false,
+      "label": "840i Gran Coupe",
+      "value": "BMW840GC"
+    },
+    {
+      "disabled": false,
+      "label": "840i Gran Coupe xDrive",
+      "value": "BMW840GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "840i xDrive",
+      "value": "BMW840IXD"
+    },
+    {
+      "disabled": false,
+      "label": "850Ci",
+      "value": "850CI"
+    },
+    {
+      "disabled": false,
+      "label": "850CSi",
+      "value": "850CSI"
+    },
+    {
+      "disabled": false,
+      "label": "850i",
+      "value": "850I"
+    },
+    {
+      "disabled": false,
+      "label": "ActiveHybrid 3",
+      "value": "ACTIVE3"
+    },
+    {
+      "disabled": false,
+      "label": "ActiveHybrid 5",
+      "value": "ACTIVE5"
+    },
+    {
+      "disabled": false,
+      "label": "ActiveHybrid 7",
+      "value": "ACTIVE7"
+    },
+    {
+      "disabled": false,
+      "label": "ActiveHybrid X6",
+      "value": "ACTIVEX6"
+    },
+    {
+      "disabled": false,
+      "label": "ALPINA B6 xDrive Gran Coupe",
+      "value": "BMWB6XDGC"
+    },
+    {
+      "disabled": false,
+      "label": "ALPINA B7",
+      "value": "ALPINAB7"
+    },
+    {
+      "disabled": false,
+      "label": "ALPINA B7 xDrive",
+      "value": "ALPINAB7XD"
+    },
+    {
+      "disabled": false,
+      "label": "ALPINA B8 xDrive Gran Coupe",
+      "value": "BMWALPB8GC"
+    },
+    {
+      "disabled": false,
+      "label": "ALPINA XB7",
+      "value": "BMWALPXB7"
+    },
+    {
+      "disabled": false,
+      "label": "i3",
+      "value": "BMWI3"
+    },
+    {
+      "disabled": false,
+      "label": "i4",
+      "value": "BMWI4"
+    },
+    {
+      "disabled": false,
+      "label": "i5",
+      "value": "BMWI5"
+    },
+    {
+      "disabled": false,
+      "label": "i7",
+      "value": "BMWI7"
+    },
+    {
+      "disabled": false,
+      "label": "i8",
+      "value": "BMWI8"
+    },
+    {
+      "disabled": false,
+      "label": "iX",
+      "value": "BMWIX"
+    },
+    {
+      "disabled": false,
+      "label": "L6",
+      "value": "L6"
+    },
+    {
+      "disabled": false,
+      "label": "L7",
+      "value": "L7"
+    },
+    {
+      "disabled": false,
+      "label": "M Coupe",
+      "value": "BMWMCOUPE"
+    },
+    {
+      "disabled": false,
+      "label": "M Roadster",
+      "value": "BMWROAD"
+    },
+    {
+      "disabled": false,
+      "label": "M2",
+      "value": "BMWM2"
+    },
+    {
+      "disabled": false,
+      "label": "M235i",
+      "value": "BMWM235I"
+    },
+    {
+      "disabled": false,
+      "label": "M235i xDrive",
+      "value": "BMWM235IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M235i xDrive Gran Coupe",
+      "value": "BMWM235GC"
+    },
+    {
+      "disabled": false,
+      "label": "M240i",
+      "value": "BMWM240I"
+    },
+    {
+      "disabled": false,
+      "label": "M240i xDrive",
+      "value": "BMWM240IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M3",
+      "value": "M3"
+    },
+    {
+      "disabled": false,
+      "label": "M3 xDrive",
+      "value": "BMWM3XD"
+    },
+    {
+      "disabled": false,
+      "label": "M340i",
+      "value": "BMWM340I"
+    },
+    {
+      "disabled": false,
+      "label": "M340i xDrive",
+      "value": "BMWM340IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M4",
+      "value": "BMWM4"
+    },
+    {
+      "disabled": false,
+      "label": "M4 xDrive",
+      "value": "BMWM4XD"
+    },
+    {
+      "disabled": false,
+      "label": "M440i",
+      "value": "BMWM440I"
+    },
+    {
+      "disabled": false,
+      "label": "M440i Gran Coupe",
+      "value": "BMWM440IGC"
+    },
+    {
+      "disabled": false,
+      "label": "M440i xDrive",
+      "value": "BMWM440IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M440i xDrive Gran Coupe",
+      "value": "BMWM440XGC"
+    },
+    {
+      "disabled": false,
+      "label": "M5",
+      "value": "M5"
+    },
+    {
+      "disabled": false,
+      "label": "M550i xDrive",
+      "value": "BMWM550IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M6",
+      "value": "M6"
+    },
+    {
+      "disabled": false,
+      "label": "M6 Gran Coupe",
+      "value": "BMWM6GC"
+    },
+    {
+      "disabled": false,
+      "label": "M760i xDrive",
+      "value": "BMWM760IXD"
+    },
+    {
+      "disabled": false,
+      "label": "M8",
+      "value": "BMWM8"
+    },
+    {
+      "disabled": false,
+      "label": "M8 Gran Coupe xDrive",
+      "value": "BMWM8GCXD"
+    },
+    {
+      "disabled": false,
+      "label": "M850i Gran Coupe xDrive",
+      "value": "BMWM850GCX"
+    },
+    {
+      "disabled": false,
+      "label": "M850i xDrive",
+      "value": "BMW850IXD"
+    },
+    {
+      "disabled": false,
+      "label": "Other BMW Models",
+      "value": "BMWOTH"
+    },
+    {
+      "disabled": false,
+      "label": "X1",
+      "value": "X1"
+    },
+    {
+      "disabled": false,
+      "label": "X2",
+      "value": "BMWX2"
+    },
+    {
+      "disabled": false,
+      "label": "X3",
+      "value": "X3"
+    },
+    {
+      "disabled": false,
+      "label": "X3 M",
+      "value": "BMWX3M"
+    },
+    {
+      "disabled": false,
+      "label": "X4",
+      "value": "BMWX4"
+    },
+    {
+      "disabled": false,
+      "label": "X4 M",
+      "value": "BMWX4M"
+    },
+    {
+      "disabled": false,
+      "label": "X5",
+      "value": "X5"
+    },
+    {
+      "disabled": false,
+      "label": "X5 M",
+      "value": "X5M"
+    },
+    {
+      "disabled": false,
+      "label": "X6",
+      "value": "X6"
+    },
+    {
+      "disabled": false,
+      "label": "X6 M",
+      "value": "X6M"
+    },
+    {
+      "disabled": false,
+      "label": "X7",
+      "value": "BMWX7"
+    },
+    {
+      "disabled": false,
+      "label": "XM",
+      "value": "BMWXM"
+    },
+    {
+      "disabled": false,
+      "label": "Z3",
+      "value": "Z3"
+    },
+    {
+      "disabled": false,
+      "label": "Z4",
+      "value": "Z4"
+    },
+    {
+      "disabled": false,
+      "label": "Z8",
+      "value": "Z8"
+    }
+  ],
+  "BUGATTI": [
+    {
+      "disabled": false,
+      "label": "Chiron",
+      "value": "BUGCHIRON"
+    },
+    {
+      "disabled": false,
+      "label": "Divo",
+      "value": "BUGDIVO"
+    },
+    {
+      "disabled": false,
+      "label": "Veyron",
+      "value": "BUGVEY"
+    }
+  ],
+  "BUICK": [
+    {
+      "disabled": false,
+      "label": "Cascada",
+      "value": "BUICASCADA"
+    },
+    {
+      "disabled": false,
+      "label": "Century",
+      "value": "CENT"
+    },
+    {
+      "disabled": false,
+      "label": "Electra",
+      "value": "ELEC"
+    },
+    {
+      "disabled": false,
+      "label": "Enclave",
+      "value": "ENCLAVE"
+    },
+    {
+      "disabled": false,
+      "label": "Encore",
+      "value": "BUIENC"
+    },
+    {
+      "disabled": false,
+      "label": "Encore GX",
+      "value": "BUIENCGX"
+    },
+    {
+      "disabled": false,
+      "label": "Envision",
+      "value": "BUIENVISI"
+    },
+    {
+      "disabled": false,
+      "label": "Envista",
+      "value": "BUIENVISTA"
+    },
+    {
+      "disabled": false,
+      "label": "LaCrosse",
+      "value": "LACROSSE"
+    },
+    {
+      "disabled": false,
+      "label": "Le Sabre",
+      "value": "LESA"
+    },
+    {
+      "disabled": false,
+      "label": "Lucerne",
+      "value": "LUCERNE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Buick Models",
+      "value": "BUOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Park Avenue",
+      "value": "PARK"
+    },
+    {
+      "disabled": false,
+      "label": "Rainier",
+      "value": "RAINIER"
+    },
+    {
+      "disabled": false,
+      "label": "Reatta",
+      "value": "REATTA"
+    },
+    {
+      "disabled": false,
+      "label": "Regal",
+      "value": "REG"
+    },
+    {
+      "disabled": false,
+      "label": "Rendezvous",
+      "value": "RENDEZVOUS"
+    },
+    {
+      "disabled": false,
+      "label": "Riviera",
+      "value": "RIV"
+    },
+    {
+      "disabled": false,
+      "label": "Roadmaster",
+      "value": "BUICKROAD"
+    },
+    {
+      "disabled": false,
+      "label": "Skyhawk",
+      "value": "SKYH"
+    },
+    {
+      "disabled": false,
+      "label": "Skylark",
+      "value": "SKYL"
+    },
+    {
+      "disabled": false,
+      "label": "Somerset",
+      "value": "SOMER"
+    },
+    {
+      "disabled": false,
+      "label": "Terraza",
+      "value": "TERRAZA"
+    },
+    {
+      "disabled": false,
+      "label": "Verano",
+      "value": "BUVERANO"
+    }
+  ],
+  "CAD": [
+    {
+      "disabled": false,
+      "label": "Allante",
+      "value": "ALLANT"
+    },
+    {
+      "disabled": false,
+      "label": "ATS",
+      "value": "ATS"
+    },
+    {
+      "disabled": false,
+      "label": "Brougham",
+      "value": "BROUGH"
+    },
+    {
+      "disabled": false,
+      "label": "Catera",
+      "value": "CATERA"
+    },
+    {
+      "disabled": false,
+      "label": "Cimarron",
+      "value": "CIMA"
+    },
+    {
+      "disabled": false,
+      "label": "CT4",
+      "value": "CADCT4"
+    },
+    {
+      "disabled": false,
+      "label": "CT5",
+      "value": "CADCT5"
+    },
+    {
+      "disabled": false,
+      "label": "CT6",
+      "value": "CADCT6"
+    },
+    {
+      "disabled": false,
+      "label": "CTS",
+      "value": "CTS"
+    },
+    {
+      "disabled": false,
+      "label": "De Ville",
+      "value": "DEV"
+    },
+    {
+      "disabled": false,
+      "label": "DTS",
+      "value": "DTS"
+    },
+    {
+      "disabled": false,
+      "label": "Eldorado",
+      "value": "ELDO"
+    },
+    {
+      "disabled": false,
+      "label": "ELR",
+      "value": "CADELR"
+    },
+    {
+      "disabled": false,
+      "label": "Escalade",
+      "value": "ESCALA"
+    },
+    {
+      "disabled": false,
+      "label": "Escalade ESV",
+      "value": "ESCALAESV"
+    },
+    {
+      "disabled": false,
+      "label": "Escalade EXT",
+      "value": "EXT"
+    },
+    {
+      "disabled": false,
+      "label": "Fleetwood",
+      "value": "FLEE"
+    },
+    {
+      "disabled": false,
+      "label": "Lyriq",
+      "value": "CADLYRIQ"
+    },
+    {
+      "disabled": false,
+      "label": "Other Cadillac Models",
+      "value": "CADOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Seville",
+      "value": "SEV"
+    },
+    {
+      "disabled": false,
+      "label": "SRX",
+      "value": "SRX"
+    },
+    {
+      "disabled": false,
+      "label": "STS",
+      "value": "STS"
+    },
+    {
+      "disabled": false,
+      "label": "XLR",
+      "value": "XLR"
+    },
+    {
+      "disabled": false,
+      "label": "XT4",
+      "value": "CADXT4"
+    },
+    {
+      "disabled": false,
+      "label": "XT5",
+      "value": "CADXT5"
+    },
+    {
+      "disabled": false,
+      "label": "XT6",
+      "value": "CADXT6"
+    },
+    {
+      "disabled": false,
+      "label": "XTS",
+      "value": "XTS"
+    }
+  ],
+  "CHEV": [
+    {
+      "disabled": false,
+      "label": "Astro",
+      "value": "ASTRO"
+    },
+    {
+      "disabled": false,
+      "label": "Avalanche",
+      "value": "AVALNCH"
+    },
+    {
+      "disabled": false,
+      "label": "Aveo",
+      "value": "AVEO"
+    },
+    {
+      "disabled": false,
+      "label": "Aveo5",
+      "value": "AVEO5"
+    },
+    {
+      "disabled": false,
+      "label": "Beretta",
+      "value": "BERETT"
+    },
+    {
+      "disabled": false,
+      "label": "Blazer",
+      "value": "BLAZER"
+    },
+    {
+      "disabled": false,
+      "label": "Bolt",
+      "value": "CHEBOLT"
+    },
+    {
+      "disabled": false,
+      "label": "Bolt EUV",
+      "value": "CHEBOLTEUV"
+    },
+    {
+      "disabled": false,
+      "label": "C/K Truck",
+      "value": "CHEVCK"
+    },
+    {
+      "disabled": false,
+      "label": "Camaro",
+      "value": "CAM"
+    },
+    {
+      "disabled": false,
+      "label": "Caprice",
+      "value": "CAP"
+    },
+    {
+      "disabled": false,
+      "label": "Captiva Sport",
+      "value": "CHECAPS"
+    },
+    {
+      "disabled": false,
+      "label": "Cavalier",
+      "value": "CAV"
+    },
+    {
+      "disabled": false,
+      "label": "Celebrity",
+      "value": "CELE"
+    },
+    {
+      "disabled": false,
+      "label": "Chevette",
+      "value": "CHEVETTE"
+    },
+    {
+      "disabled": false,
+      "label": "Citation",
+      "value": "CITATION"
+    },
+    {
+      "disabled": false,
+      "label": "City Express",
+      "value": "CHECITYEXP"
+    },
+    {
+      "disabled": false,
+      "label": "Cobalt",
+      "value": "COBALT"
+    },
+    {
+      "disabled": false,
+      "label": "Colorado",
+      "value": "COLORADO"
+    },
+    {
+      "disabled": false,
+      "label": "Corsica",
+      "value": "CORSI"
+    },
+    {
+      "disabled": false,
+      "label": "Corvette",
+      "value": "CORV"
+    },
+    {
+      "disabled": false,
+      "label": "Cruze",
+      "value": "CRUZE"
+    },
+    {
+      "disabled": false,
+      "label": "El Camino",
+      "value": "ELCAM"
+    },
+    {
+      "disabled": false,
+      "label": "Equinox",
+      "value": "EQUINOX"
+    },
+    {
+      "disabled": false,
+      "label": "Express 1500",
+      "value": "CHEXP1500"
+    },
+    {
+      "disabled": false,
+      "label": "Express 2500",
+      "value": "CHEXP2500"
+    },
+    {
+      "disabled": false,
+      "label": "Express 3500",
+      "value": "CHEXP3500"
+    },
+    {
+      "disabled": false,
+      "label": "Express 4500",
+      "value": "CHEXP4500"
+    },
+    {
+      "disabled": false,
+      "label": "G10",
+      "value": "CHEG10"
+    },
+    {
+      "disabled": false,
+      "label": "G20",
+      "value": "CHEG20"
+    },
+    {
+      "disabled": false,
+      "label": "G30",
+      "value": "CHEG30"
+    },
+    {
+      "disabled": false,
+      "label": "HHR",
+      "value": "HHR"
+    },
+    {
+      "disabled": false,
+      "label": "Impala",
+      "value": "CHEVIMP"
+    },
+    {
+      "disabled": false,
+      "label": "Kodiak C4500",
+      "value": "KODC4500"
+    },
+    {
+      "disabled": false,
+      "label": "Lumina",
+      "value": "LUMINA"
+    },
+    {
+      "disabled": false,
+      "label": "Lumina APV",
+      "value": "LAPV"
+    },
+    {
+      "disabled": false,
+      "label": "LUV",
+      "value": "LUV"
+    },
+    {
+      "disabled": false,
+      "label": "Malibu",
+      "value": "MALI"
+    },
+    {
+      "disabled": false,
+      "label": "Metro",
+      "value": "CHVMETR"
+    },
+    {
+      "disabled": false,
+      "label": "Monte Carlo",
+      "value": "CHEVMONT"
+    },
+    {
+      "disabled": false,
+      "label": "Nova",
+      "value": "NOVA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Chevrolet Models",
+      "value": "CHEOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Prizm",
+      "value": "CHEVPRIZM"
+    },
+    {
+      "disabled": false,
+      "label": "S10 Blazer",
+      "value": "CHVST"
+    },
+    {
+      "disabled": false,
+      "label": "S10 Pickup",
+      "value": "S10PICKUP"
+    },
+    {
+      "disabled": false,
+      "label": "Silverado 1500",
+      "value": "CHEV150"
+    },
+    {
+      "disabled": false,
+      "label": "Silverado 2500",
+      "value": "CHEVC25"
+    },
+    {
+      "disabled": false,
+      "label": "Silverado 3500",
+      "value": "CH3500PU"
+    },
+    {
+      "disabled": false,
+      "label": "Sonic",
+      "value": "SONIC"
+    },
+    {
+      "disabled": false,
+      "label": "Spark",
+      "value": "SPARK"
+    },
+    {
+      "disabled": false,
+      "label": "Spectrum",
+      "value": "CHEVSPEC"
+    },
+    {
+      "disabled": false,
+      "label": "Sprint",
+      "value": "CHSPRINT"
+    },
+    {
+      "disabled": false,
+      "label": "SS",
+      "value": "CHEVSS"
+    },
+    {
+      "disabled": false,
+      "label": "SSR",
+      "value": "SSR"
+    },
+    {
+      "disabled": false,
+      "label": "Suburban",
+      "value": "CHEVSUB"
+    },
+    {
+      "disabled": false,
+      "label": "Tahoe",
+      "value": "TAHOE"
+    },
+    {
+      "disabled": false,
+      "label": "Tracker",
+      "value": "TRACKE"
+    },
+    {
+      "disabled": false,
+      "label": "TrailBlazer",
+      "value": "TRAILBLZ"
+    },
+    {
+      "disabled": false,
+      "label": "TrailBlazer EXT",
+      "value": "TRAILBZEXT"
+    },
+    {
+      "disabled": false,
+      "label": "Traverse",
+      "value": "TRAVERSE"
+    },
+    {
+      "disabled": false,
+      "label": "Trax",
+      "value": "CHETRAX"
+    },
+    {
+      "disabled": false,
+      "label": "Uplander",
+      "value": "UPLANDER"
+    },
+    {
+      "disabled": false,
+      "label": "Venture",
+      "value": "VENTUR"
+    },
+    {
+      "disabled": false,
+      "label": "Volt",
+      "value": "VOLT"
+    }
+  ],
+  "CHRY": [
+    {
+      "disabled": false,
+      "label": "200",
+      "value": "CHRYS200"
+    },
+    {
+      "disabled": false,
+      "label": "300",
+      "value": "300"
+    },
+    {
+      "disabled": false,
+      "label": "300M",
+      "value": "CHRY300"
+    },
+    {
+      "disabled": false,
+      "label": "Aspen",
+      "value": "ASPEN"
+    },
+    {
+      "disabled": false,
+      "label": "Cirrus",
+      "value": "CIRRUS"
+    },
+    {
+      "disabled": false,
+      "label": "Concorde",
+      "value": "CONC"
+    },
+    {
+      "disabled": false,
+      "label": "Conquest",
+      "value": "CHRYCONQ"
+    },
+    {
+      "disabled": false,
+      "label": "Cordoba",
+      "value": "CORDOBA"
+    },
+    {
+      "disabled": false,
+      "label": "Crossfire",
+      "value": "CROSSFIRE"
+    },
+    {
+      "disabled": false,
+      "label": "E Class",
+      "value": "ECLASS"
+    },
+    {
+      "disabled": false,
+      "label": "Fifth Avenue",
+      "value": "FIFTH"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Voyager",
+      "value": "CHRYGRANDV"
+    },
+    {
+      "disabled": false,
+      "label": "Imperial",
+      "value": "IMPE"
+    },
+    {
+      "disabled": false,
+      "label": "Intrepid",
+      "value": "INTREPID"
+    },
+    {
+      "disabled": false,
+      "label": "Laser",
+      "value": "CHRYLAS"
+    },
+    {
+      "disabled": false,
+      "label": "LeBaron",
+      "value": "LEBA"
+    },
+    {
+      "disabled": false,
+      "label": "LeBaron GTS",
+      "value": "CHRYLEBGTS"
+    },
+    {
+      "disabled": false,
+      "label": "LHS",
+      "value": "LHS"
+    },
+    {
+      "disabled": false,
+      "label": "New Yorker",
+      "value": "NY"
+    },
+    {
+      "disabled": false,
+      "label": "Newport",
+      "value": "NEWPORT"
+    },
+    {
+      "disabled": false,
+      "label": "Other Chrysler Models",
+      "value": "CHOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Pacifica",
+      "value": "PACIFICA"
+    },
+    {
+      "disabled": false,
+      "label": "Prowler",
+      "value": "CHPROWLE"
+    },
+    {
+      "disabled": false,
+      "label": "PT Cruiser",
+      "value": "PTCRUIS"
+    },
+    {
+      "disabled": false,
+      "label": "Sebring",
+      "value": "CHRYSEB"
+    },
+    {
+      "disabled": false,
+      "label": "TC by Maserati",
+      "value": "CHRYTC"
+    },
+    {
+      "disabled": false,
+      "label": "Town & Country",
+      "value": "TANDC"
+    },
+    {
+      "disabled": false,
+      "label": "Voyager",
+      "value": "VOYAGER"
+    }
+  ],
+  "DAEW": [
+    {
+      "disabled": false,
+      "label": "Lanos",
+      "value": "LANOS"
+    },
+    {
+      "disabled": false,
+      "label": "Leganza",
+      "value": "LEGANZA"
+    },
+    {
+      "disabled": false,
+      "label": "Nubira",
+      "value": "NUBIRA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Daewoo Models",
+      "value": "DAEOTH"
+    }
+  ],
+  "DATSUN": [
+    {
+      "disabled": false,
+      "label": "200SX",
+      "value": "DAT200SX"
+    },
+    {
+      "disabled": false,
+      "label": "210",
+      "value": "DAT210"
+    },
+    {
+      "disabled": false,
+      "label": "280ZX",
+      "value": "280Z"
+    },
+    {
+      "disabled": false,
+      "label": "300ZX",
+      "value": "300ZX"
+    },
+    {
+      "disabled": false,
+      "label": "310",
+      "value": "310"
+    },
+    {
+      "disabled": false,
+      "label": "510",
+      "value": "510"
+    },
+    {
+      "disabled": false,
+      "label": "720",
+      "value": "720"
+    },
+    {
+      "disabled": false,
+      "label": "810",
+      "value": "810"
+    },
+    {
+      "disabled": false,
+      "label": "Maxima",
+      "value": "DATMAX"
+    },
+    {
+      "disabled": false,
+      "label": "Other Datsun Models",
+      "value": "DATOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "DATPU"
+    },
+    {
+      "disabled": false,
+      "label": "Pulsar",
+      "value": "PUL"
+    },
+    {
+      "disabled": false,
+      "label": "Sentra",
+      "value": "DATSENT"
+    },
+    {
+      "disabled": false,
+      "label": "Stanza",
+      "value": "STAN"
+    }
+  ],
+  "DELOREAN": [
+    {
+      "disabled": false,
+      "label": "DMC-12",
+      "value": "DMC12"
+    }
+  ],
+  "DODGE": [
+    {
+      "disabled": false,
+      "label": "400",
+      "value": "400"
+    },
+    {
+      "disabled": false,
+      "label": "600",
+      "value": "DOD600"
+    },
+    {
+      "disabled": false,
+      "label": "Aries",
+      "value": "ARI"
+    },
+    {
+      "disabled": false,
+      "label": "Avenger",
+      "value": "AVENGR"
+    },
+    {
+      "disabled": false,
+      "label": "B150",
+      "value": "B150"
+    },
+    {
+      "disabled": false,
+      "label": "B1500",
+      "value": "B1500"
+    },
+    {
+      "disabled": false,
+      "label": "B250",
+      "value": "B250"
+    },
+    {
+      "disabled": false,
+      "label": "B2500",
+      "value": "B2500"
+    },
+    {
+      "disabled": false,
+      "label": "B350",
+      "value": "B350"
+    },
+    {
+      "disabled": false,
+      "label": "B3500",
+      "value": "B3500"
+    },
+    {
+      "disabled": false,
+      "label": "Caliber",
+      "value": "CALIBER"
+    },
+    {
+      "disabled": false,
+      "label": "Caravan",
+      "value": "DODCARA"
+    },
+    {
+      "disabled": false,
+      "label": "Challenger",
+      "value": "CHALLENGER"
+    },
+    {
+      "disabled": false,
+      "label": "Charger",
+      "value": "DODCHAR"
+    },
+    {
+      "disabled": false,
+      "label": "Colt",
+      "value": "DODCOLT"
+    },
+    {
+      "disabled": false,
+      "label": "Conquest",
+      "value": "DODCONQ"
+    },
+    {
+      "disabled": false,
+      "label": "D/W Truck",
+      "value": "DODDW"
+    },
+    {
+      "disabled": false,
+      "label": "Dakota",
+      "value": "DAKOTA"
+    },
+    {
+      "disabled": false,
+      "label": "Dart",
+      "value": "DODDART"
+    },
+    {
+      "disabled": false,
+      "label": "Daytona",
+      "value": "DAY"
+    },
+    {
+      "disabled": false,
+      "label": "Diplomat",
+      "value": "DIPLOMA"
+    },
+    {
+      "disabled": false,
+      "label": "Durango",
+      "value": "DURANG"
+    },
+    {
+      "disabled": false,
+      "label": "Dynasty",
+      "value": "DODDYNA"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Caravan",
+      "value": "GRANDCARAV"
+    },
+    {
+      "disabled": false,
+      "label": "Hornet",
+      "value": "DODHORNET"
+    },
+    {
+      "disabled": false,
+      "label": "Intrepid",
+      "value": "INTRE"
+    },
+    {
+      "disabled": false,
+      "label": "Journey",
+      "value": "JOURNEY"
+    },
+    {
+      "disabled": false,
+      "label": "Lancer",
+      "value": "LANCERDODG"
+    },
+    {
+      "disabled": false,
+      "label": "Magnum",
+      "value": "MAGNUM"
+    },
+    {
+      "disabled": false,
+      "label": "Mirada",
+      "value": "MIRADA"
+    },
+    {
+      "disabled": false,
+      "label": "Monaco",
+      "value": "MONACO"
+    },
+    {
+      "disabled": false,
+      "label": "Neon",
+      "value": "DODNEON"
+    },
+    {
+      "disabled": false,
+      "label": "Nitro",
+      "value": "NITRO"
+    },
+    {
+      "disabled": false,
+      "label": "Omni",
+      "value": "OMNI"
+    },
+    {
+      "disabled": false,
+      "label": "Other Dodge Models",
+      "value": "DOOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Raider",
+      "value": "RAIDER"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 1500 Truck",
+      "value": "RAM1504WD"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 2500 Truck",
+      "value": "RAM25002WD"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 3500 Truck",
+      "value": "RAM3502WD"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 4500 Truck",
+      "value": "RAM4500"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 50 Truck",
+      "value": "DODD50"
+    },
+    {
+      "disabled": false,
+      "label": "Ram 5500 Truck",
+      "value": "RAM5500"
+    },
+    {
+      "disabled": false,
+      "label": "Ram SRT-10",
+      "value": "RAMSRT10"
+    },
+    {
+      "disabled": false,
+      "label": "Ramcharger",
+      "value": "RAMCGR"
+    },
+    {
+      "disabled": false,
+      "label": "Rampage",
+      "value": "RAMPAGE"
+    },
+    {
+      "disabled": false,
+      "label": "Shadow",
+      "value": "DODSHAD"
+    },
+    {
+      "disabled": false,
+      "label": "Spirit",
+      "value": "DODSPIR"
+    },
+    {
+      "disabled": false,
+      "label": "Sprinter",
+      "value": "SPRINTER"
+    },
+    {
+      "disabled": false,
+      "label": "SRT-4",
+      "value": "SRT4"
+    },
+    {
+      "disabled": false,
+      "label": "St. Regis",
+      "value": "STREGIS"
+    },
+    {
+      "disabled": false,
+      "label": "Stealth",
+      "value": "STEAL"
+    },
+    {
+      "disabled": false,
+      "label": "Stratus",
+      "value": "STRATU"
+    },
+    {
+      "disabled": false,
+      "label": "Viper",
+      "value": "VIPER"
+    }
+  ],
+  "EAGLE": [
+    {
+      "disabled": false,
+      "label": "Medallion",
+      "value": "EAGLEMED"
+    },
+    {
+      "disabled": false,
+      "label": "Other Eagle Models",
+      "value": "EAGOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Premier",
+      "value": "EAGLEPREM"
+    },
+    {
+      "disabled": false,
+      "label": "Summit",
+      "value": "SUMMIT"
+    },
+    {
+      "disabled": false,
+      "label": "Talon",
+      "value": "TALON"
+    },
+    {
+      "disabled": false,
+      "label": "Vision",
+      "value": "VISION"
+    }
+  ],
+  "FER": [
+    {
+      "disabled": false,
+      "label": "296 GTB",
+      "value": "FER296GTB"
+    },
+    {
+      "disabled": false,
+      "label": "296 GTS",
+      "value": "FER296GTS"
+    },
+    {
+      "disabled": false,
+      "label": "308",
+      "value": "308"
+    },
+    {
+      "disabled": false,
+      "label": "328",
+      "value": "328"
+    },
+    {
+      "disabled": false,
+      "label": "348",
+      "value": "348"
+    },
+    {
+      "disabled": false,
+      "label": "360",
+      "value": "360"
+    },
+    {
+      "disabled": false,
+      "label": "456 GT",
+      "value": "456GT"
+    },
+    {
+      "disabled": false,
+      "label": "456M GT",
+      "value": "456MGT"
+    },
+    {
+      "disabled": false,
+      "label": "458 Italia",
+      "value": "458ITALIA"
+    },
+    {
+      "disabled": false,
+      "label": "458 Speciale",
+      "value": "FER458SPEC"
+    },
+    {
+      "disabled": false,
+      "label": "458 Spider",
+      "value": "FER458SPID"
+    },
+    {
+      "disabled": false,
+      "label": "488 GTB",
+      "value": "FER488GTB"
+    },
+    {
+      "disabled": false,
+      "label": "488 Pista",
+      "value": "FER488PISA"
+    },
+    {
+      "disabled": false,
+      "label": "488 Spider",
+      "value": "FER488SPI"
+    },
+    {
+      "disabled": false,
+      "label": "512M",
+      "value": "512M"
+    },
+    {
+      "disabled": false,
+      "label": "512TR",
+      "value": "512TR"
+    },
+    {
+      "disabled": false,
+      "label": "550 Maranello",
+      "value": "550M"
+    },
+    {
+      "disabled": false,
+      "label": "575M Maranello",
+      "value": "575M"
+    },
+    {
+      "disabled": false,
+      "label": "599 GTB Fiorano",
+      "value": "599GTB"
+    },
+    {
+      "disabled": false,
+      "label": "599 GTO",
+      "value": "599GTO"
+    },
+    {
+      "disabled": false,
+      "label": "599 SA Aperta",
+      "value": "FERSAPERTA"
+    },
+    {
+      "disabled": false,
+      "label": "612 Scaglietti",
+      "value": "612SCAGLIE"
+    },
+    {
+      "disabled": false,
+      "label": "812 Competizione",
+      "value": "FER812COMP"
+    },
+    {
+      "disabled": false,
+      "label": "812 GTS",
+      "value": "FER812GTS"
+    },
+    {
+      "disabled": false,
+      "label": "812 Superfast",
+      "value": "FER812SUP"
+    },
+    {
+      "disabled": false,
+      "label": "California",
+      "value": "FERCALIF"
+    },
+    {
+      "disabled": false,
+      "label": "Enzo",
+      "value": "ENZO"
+    },
+    {
+      "disabled": false,
+      "label": "F12 Berlinetta",
+      "value": "FERF12BERL"
+    },
+    {
+      "disabled": false,
+      "label": "F12tdf",
+      "value": "FERF12TDF"
+    },
+    {
+      "disabled": false,
+      "label": "F355",
+      "value": "F355"
+    },
+    {
+      "disabled": false,
+      "label": "F40",
+      "value": "F40"
+    },
+    {
+      "disabled": false,
+      "label": "F430",
+      "value": "F430"
+    },
+    {
+      "disabled": false,
+      "label": "F50",
+      "value": "F50"
+    },
+    {
+      "disabled": false,
+      "label": "F8 Spider",
+      "value": "FERF8SPID"
+    },
+    {
+      "disabled": false,
+      "label": "F8 Tributo",
+      "value": "FERF8TRIB"
+    },
+    {
+      "disabled": false,
+      "label": "FF",
+      "value": "FERFF"
+    },
+    {
+      "disabled": false,
+      "label": "GTC4Lusso",
+      "value": "FERGTC4LUS"
+    },
+    {
+      "disabled": false,
+      "label": "LaFerrari",
+      "value": "FERLAF"
+    },
+    {
+      "disabled": false,
+      "label": "Mondial",
+      "value": "MOND"
+    },
+    {
+      "disabled": false,
+      "label": "Other Ferrari Models",
+      "value": "FEROTH"
+    },
+    {
+      "disabled": false,
+      "label": "Portofino",
+      "value": "FERPORTO"
+    },
+    {
+      "disabled": false,
+      "label": "Portofino M",
+      "value": "FERPORTOM"
+    },
+    {
+      "disabled": false,
+      "label": "Roma",
+      "value": "FERROMA"
+    },
+    {
+      "disabled": false,
+      "label": "SF90 Spider",
+      "value": "FERSF90SPI"
+    },
+    {
+      "disabled": false,
+      "label": "SF90 Stradale",
+      "value": "FERSF90STR"
+    },
+    {
+      "disabled": false,
+      "label": "Testarossa",
+      "value": "TEST"
+    }
+  ],
+  "FIAT": [
+    {
+      "disabled": false,
+      "label": "124 Spider",
+      "value": "FIAT124SPI"
+    },
+    {
+      "disabled": false,
+      "label": "2000 Spider",
+      "value": "2000"
+    },
+    {
+      "disabled": false,
+      "label": "500",
+      "value": "FIAT500"
+    },
+    {
+      "disabled": false,
+      "label": "500L",
+      "value": "FIAT500L"
+    },
+    {
+      "disabled": false,
+      "label": "500X",
+      "value": "FIAT500X"
+    },
+    {
+      "disabled": false,
+      "label": "Bertone X1/9",
+      "value": "BERTON"
+    },
+    {
+      "disabled": false,
+      "label": "Brava",
+      "value": "BRAVA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Fiat Models",
+      "value": "FIAOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Pininfarina Spider",
+      "value": "PININ"
+    },
+    {
+      "disabled": false,
+      "label": "Strada",
+      "value": "STRADA"
+    },
+    {
+      "disabled": false,
+      "label": "X1/9",
+      "value": "FIATX19"
+    }
+  ],
+  "FISK": [
+    {
+      "disabled": false,
+      "label": "Karma",
+      "value": "KARMA"
+    },
+    {
+      "disabled": false,
+      "label": "Ocean",
+      "value": "FISKOCEAN"
+    }
+  ],
+  "FORD": [
+    {
+      "disabled": false,
+      "label": "Aerostar",
+      "value": "AERO"
+    },
+    {
+      "disabled": false,
+      "label": "Aspire",
+      "value": "ASPIRE"
+    },
+    {
+      "disabled": false,
+      "label": "Bronco",
+      "value": "BRON"
+    },
+    {
+      "disabled": false,
+      "label": "Bronco II",
+      "value": "B2"
+    },
+    {
+      "disabled": false,
+      "label": "Bronco Sport",
+      "value": "FORDBRONSP"
+    },
+    {
+      "disabled": false,
+      "label": "C-MAX",
+      "value": "FOCMAX"
+    },
+    {
+      "disabled": false,
+      "label": "Contour",
+      "value": "CONTOUR"
+    },
+    {
+      "disabled": false,
+      "label": "Courier",
+      "value": "COURIER"
+    },
+    {
+      "disabled": false,
+      "label": "Crown Victoria",
+      "value": "CROWNVIC"
+    },
+    {
+      "disabled": false,
+      "label": "E-100",
+      "value": "E100ECON"
+    },
+    {
+      "disabled": false,
+      "label": "E-150 and Econoline 150",
+      "value": "E150ECON"
+    },
+    {
+      "disabled": false,
+      "label": "E-250 and Econoline 250",
+      "value": "E250ECON"
+    },
+    {
+      "disabled": false,
+      "label": "E-350 and Econoline 350",
+      "value": "E350ECON"
+    },
+    {
+      "disabled": false,
+      "label": "E-450 and Econoline 450",
+      "value": "FORDE450"
+    },
+    {
+      "disabled": false,
+      "label": "E-Transit",
+      "value": "FORDETRAN"
+    },
+    {
+      "disabled": false,
+      "label": "EcoSport",
+      "value": "FORDECOSPT"
+    },
+    {
+      "disabled": false,
+      "label": "Edge",
+      "value": "EDGE"
+    },
+    {
+      "disabled": false,
+      "label": "Escape",
+      "value": "ESCAPE"
+    },
+    {
+      "disabled": false,
+      "label": "Escort",
+      "value": "ESCO"
+    },
+    {
+      "disabled": false,
+      "label": "Excursion",
+      "value": "EXCURSION"
+    },
+    {
+      "disabled": false,
+      "label": "EXP",
+      "value": "EXP"
+    },
+    {
+      "disabled": false,
+      "label": "Expedition",
+      "value": "EXPEDI"
+    },
+    {
+      "disabled": false,
+      "label": "Expedition EL",
+      "value": "EXPEDIEL"
+    },
+    {
+      "disabled": false,
+      "label": "Expedition Max",
+      "value": "FORDEXPMAX"
+    },
+    {
+      "disabled": false,
+      "label": "Explorer",
+      "value": "EXPLOR"
+    },
+    {
+      "disabled": false,
+      "label": "Explorer Sport Trac",
+      "value": "SPORTTRAC"
+    },
+    {
+      "disabled": false,
+      "label": "F100",
+      "value": "F100"
+    },
+    {
+      "disabled": false,
+      "label": "F150",
+      "value": "F150PICKUP"
+    },
+    {
+      "disabled": false,
+      "label": "F250",
+      "value": "F250"
+    },
+    {
+      "disabled": false,
+      "label": "F350",
+      "value": "F350"
+    },
+    {
+      "disabled": false,
+      "label": "F450",
+      "value": "F450"
+    },
+    {
+      "disabled": false,
+      "label": "F550",
+      "value": "FORDF550"
+    },
+    {
+      "disabled": false,
+      "label": "F600",
+      "value": "FORDF600"
+    },
+    {
+      "disabled": false,
+      "label": "F650",
+      "value": "FORDF650"
+    },
+    {
+      "disabled": false,
+      "label": "F750",
+      "value": "FORDF750"
+    },
+    {
+      "disabled": false,
+      "label": "Fairmont",
+      "value": "FAIRM"
+    },
+    {
+      "disabled": false,
+      "label": "Festiva",
+      "value": "FESTIV"
+    },
+    {
+      "disabled": false,
+      "label": "Fiesta",
+      "value": "FIESTA"
+    },
+    {
+      "disabled": false,
+      "label": "Five Hundred",
+      "value": "FIVEHUNDRE"
+    },
+    {
+      "disabled": false,
+      "label": "Flex",
+      "value": "FLEX"
+    },
+    {
+      "disabled": false,
+      "label": "Focus",
+      "value": "FOCUS"
+    },
+    {
+      "disabled": false,
+      "label": "Freestar",
+      "value": "FREESTAR"
+    },
+    {
+      "disabled": false,
+      "label": "Freestyle",
+      "value": "FREESTYLE"
+    },
+    {
+      "disabled": false,
+      "label": "Fusion",
+      "value": "FUSION"
+    },
+    {
+      "disabled": false,
+      "label": "Granada",
+      "value": "GRANADA"
+    },
+    {
+      "disabled": false,
+      "label": "GT",
+      "value": "GT"
+    },
+    {
+      "disabled": false,
+      "label": "LTD",
+      "value": "LTD"
+    },
+    {
+      "disabled": false,
+      "label": "Maverick",
+      "value": "FORDMAVER"
+    },
+    {
+      "disabled": false,
+      "label": "Mustang",
+      "value": "MUST"
+    },
+    {
+      "disabled": false,
+      "label": "Mustang Mach-E",
+      "value": "FORDMACHE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Ford Models",
+      "value": "FOOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Probe",
+      "value": "PROBE"
+    },
+    {
+      "disabled": false,
+      "label": "Ranger",
+      "value": "RANGER"
+    },
+    {
+      "disabled": false,
+      "label": "Taurus",
+      "value": "TAURUS"
+    },
+    {
+      "disabled": false,
+      "label": "Taurus X",
+      "value": "TAURUSX"
+    },
+    {
+      "disabled": false,
+      "label": "Tempo",
+      "value": "TEMPO"
+    },
+    {
+      "disabled": false,
+      "label": "Thunderbird",
+      "value": "TBIRD"
+    },
+    {
+      "disabled": false,
+      "label": "Transit 150",
+      "value": "FORDTRN150"
+    },
+    {
+      "disabled": false,
+      "label": "Transit 250",
+      "value": "FORDTRN250"
+    },
+    {
+      "disabled": false,
+      "label": "Transit 350",
+      "value": "FORDTRN350"
+    },
+    {
+      "disabled": false,
+      "label": "Transit Connect",
+      "value": "TRANSCONN"
+    },
+    {
+      "disabled": false,
+      "label": "Windstar",
+      "value": "WINDST"
+    },
+    {
+      "disabled": false,
+      "label": "ZX2 Escort",
+      "value": "FORDZX2"
+    }
+  ],
+  "FREIGHT": [
+    {
+      "disabled": false,
+      "label": "Sprinter",
+      "value": "FRESPRINT"
+    }
+  ],
+  "GENESIS": [
+    {
+      "disabled": false,
+      "label": "Electrified G80",
+      "value": "GENELECG80"
+    },
+    {
+      "disabled": false,
+      "label": "Electrified GV70",
+      "value": "GENELEGV70"
+    },
+    {
+      "disabled": false,
+      "label": "G70",
+      "value": "GENG70"
+    },
+    {
+      "disabled": false,
+      "label": "G80",
+      "value": "GENG80"
+    },
+    {
+      "disabled": false,
+      "label": "G90",
+      "value": "GENG90"
+    },
+    {
+      "disabled": false,
+      "label": "GV60",
+      "value": "GENGV60"
+    },
+    {
+      "disabled": false,
+      "label": "GV70",
+      "value": "GENGV70"
+    },
+    {
+      "disabled": false,
+      "label": "GV80",
+      "value": "GENGV80"
+    }
+  ],
+  "GEO": [
+    {
+      "disabled": false,
+      "label": "Metro",
+      "value": "GEOMETRO"
+    },
+    {
+      "disabled": false,
+      "label": "Other Geo Models",
+      "value": "GEOOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Prizm",
+      "value": "GEOPRIZM"
+    },
+    {
+      "disabled": false,
+      "label": "Spectrum",
+      "value": "SPECT"
+    },
+    {
+      "disabled": false,
+      "label": "Storm",
+      "value": "STORM"
+    },
+    {
+      "disabled": false,
+      "label": "Tracker",
+      "value": "GEOTRACK"
+    }
+  ],
+  "GMC": [
+    {
+      "disabled": false,
+      "label": "Acadia",
+      "value": "ACADIA"
+    },
+    {
+      "disabled": false,
+      "label": "Caballero",
+      "value": "CABALLERO"
+    },
+    {
+      "disabled": false,
+      "label": "Canyon",
+      "value": "CANYON"
+    },
+    {
+      "disabled": false,
+      "label": "Envoy",
+      "value": "ENVOY"
+    },
+    {
+      "disabled": false,
+      "label": "Envoy XL",
+      "value": "ENVOYXL"
+    },
+    {
+      "disabled": false,
+      "label": "Envoy XUV",
+      "value": "ENVOYXUV"
+    },
+    {
+      "disabled": false,
+      "label": "G1500",
+      "value": "G1500"
+    },
+    {
+      "disabled": false,
+      "label": "G2500",
+      "value": "G2500"
+    },
+    {
+      "disabled": false,
+      "label": "G3500",
+      "value": "G3500"
+    },
+    {
+      "disabled": false,
+      "label": "Hummer EV",
+      "value": "GMCHUMMER"
+    },
+    {
+      "disabled": false,
+      "label": "Jimmy",
+      "value": "JIM"
+    },
+    {
+      "disabled": false,
+      "label": "Other GMC Models",
+      "value": "GMCOTH"
+    },
+    {
+      "disabled": false,
+      "label": "S15 Jimmy",
+      "value": "GMCS15"
+    },
+    {
+      "disabled": false,
+      "label": "S15 Pickup",
+      "value": "S15"
+    },
+    {
+      "disabled": false,
+      "label": "Safari",
+      "value": "SAFARIGMC"
+    },
+    {
+      "disabled": false,
+      "label": "Savana 1500",
+      "value": "GMCSAVANA"
+    },
+    {
+      "disabled": false,
+      "label": "Savana 2500",
+      "value": "GMCSAV2500"
+    },
+    {
+      "disabled": false,
+      "label": "Savana 3500",
+      "value": "GMCSAV3500"
+    },
+    {
+      "disabled": false,
+      "label": "Savana 4500",
+      "value": "GMCSAV4500"
+    },
+    {
+      "disabled": false,
+      "label": "Sierra 1500",
+      "value": "15SIPU4WD"
+    },
+    {
+      "disabled": false,
+      "label": "Sierra 2500",
+      "value": "GMCC25PU"
+    },
+    {
+      "disabled": false,
+      "label": "Sierra 3500",
+      "value": "GMC3500PU"
+    },
+    {
+      "disabled": false,
+      "label": "Sonoma",
+      "value": "SONOMA"
+    },
+    {
+      "disabled": false,
+      "label": "Suburban",
+      "value": "SUB"
+    },
+    {
+      "disabled": false,
+      "label": "Syclone",
+      "value": "GMCSYCLON"
+    },
+    {
+      "disabled": false,
+      "label": "Terrain",
+      "value": "TERRAIN"
+    },
+    {
+      "disabled": false,
+      "label": "TopKick C4500",
+      "value": "TOPC4500"
+    },
+    {
+      "disabled": false,
+      "label": "Typhoon",
+      "value": "TYPH"
+    },
+    {
+      "disabled": false,
+      "label": "Yukon",
+      "value": "YUKON"
+    },
+    {
+      "disabled": false,
+      "label": "Yukon XL",
+      "value": "YUKONXL"
+    }
+  ],
+  "HONDA": [
+    {
+      "disabled": false,
+      "label": "Accord",
+      "value": "ACCORD"
+    },
+    {
+      "disabled": false,
+      "label": "Accord Crosstour",
+      "value": "CROSSTOUR"
+    },
+    {
+      "disabled": false,
+      "label": "Civic",
+      "value": "CIVIC"
+    },
+    {
+      "disabled": false,
+      "label": "Clarity",
+      "value": "HONCLARITY"
+    },
+    {
+      "disabled": false,
+      "label": "CR-V",
+      "value": "CRV"
+    },
+    {
+      "disabled": false,
+      "label": "CR-Z",
+      "value": "CRZ"
+    },
+    {
+      "disabled": false,
+      "label": "Crosstour",
+      "value": "HONCROSS"
+    },
+    {
+      "disabled": false,
+      "label": "CRX",
+      "value": "CRX"
+    },
+    {
+      "disabled": false,
+      "label": "Del Sol",
+      "value": "HONDELSOL"
+    },
+    {
+      "disabled": false,
+      "label": "Element",
+      "value": "ELEMENT"
+    },
+    {
+      "disabled": false,
+      "label": "Fit",
+      "value": "FIT"
+    },
+    {
+      "disabled": false,
+      "label": "HR-V",
+      "value": "HONHRV"
+    },
+    {
+      "disabled": false,
+      "label": "Insight",
+      "value": "INSIGHT"
+    },
+    {
+      "disabled": false,
+      "label": "Odyssey",
+      "value": "ODYSSEY"
+    },
+    {
+      "disabled": false,
+      "label": "Other Honda Models",
+      "value": "HONOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Passport",
+      "value": "PASSPO"
+    },
+    {
+      "disabled": false,
+      "label": "Pilot",
+      "value": "PILOT"
+    },
+    {
+      "disabled": false,
+      "label": "Prelude",
+      "value": "PRE"
+    },
+    {
+      "disabled": false,
+      "label": "Ridgeline",
+      "value": "RIDGELINE"
+    },
+    {
+      "disabled": false,
+      "label": "S2000",
+      "value": "S2000"
+    }
+  ],
+  "AMGEN": [
+    {
+      "disabled": false,
+      "label": "H1",
+      "value": "HUMMER"
+    },
+    {
+      "disabled": false,
+      "label": "H2",
+      "value": "H2"
+    },
+    {
+      "disabled": false,
+      "label": "H3",
+      "value": "H3"
+    },
+    {
+      "disabled": false,
+      "label": "H3T",
+      "value": "H3T"
+    },
+    {
+      "disabled": false,
+      "label": "Other Hummer Models",
+      "value": "AMGOTH"
+    }
+  ],
+  "HYUND": [
+    {
+      "disabled": false,
+      "label": "Accent",
+      "value": "ACCENT"
+    },
+    {
+      "disabled": false,
+      "label": "Azera",
+      "value": "AZERA"
+    },
+    {
+      "disabled": false,
+      "label": "Elantra",
+      "value": "ELANTR"
+    },
+    {
+      "disabled": false,
+      "label": "Elantra Coupe",
+      "value": "HYUELANCPE"
+    },
+    {
+      "disabled": false,
+      "label": "Elantra N",
+      "value": "HYUNDELANN"
+    },
+    {
+      "disabled": false,
+      "label": "Elantra Touring",
+      "value": "ELANTOUR"
+    },
+    {
+      "disabled": false,
+      "label": "Entourage",
+      "value": "ENTOURAGE"
+    },
+    {
+      "disabled": false,
+      "label": "Equus",
+      "value": "EQUUS"
+    },
+    {
+      "disabled": false,
+      "label": "Excel",
+      "value": "HYUEXCEL"
+    },
+    {
+      "disabled": false,
+      "label": "Genesis",
+      "value": "GENESIS"
+    },
+    {
+      "disabled": false,
+      "label": "Genesis Coupe",
+      "value": "GENESISCPE"
+    },
+    {
+      "disabled": false,
+      "label": "Ioniq",
+      "value": "HYUIONIQ"
+    },
+    {
+      "disabled": false,
+      "label": "Ioniq 5",
+      "value": "HYUIONIQ5"
+    },
+    {
+      "disabled": false,
+      "label": "Ioniq 6",
+      "value": "HYUIONIQ6"
+    },
+    {
+      "disabled": false,
+      "label": "Kona",
+      "value": "HYUKONA"
+    },
+    {
+      "disabled": false,
+      "label": "Kona N",
+      "value": "HYUNDKONAN"
+    },
+    {
+      "disabled": false,
+      "label": "Nexo",
+      "value": "HYUNDNEXO"
+    },
+    {
+      "disabled": false,
+      "label": "Other Hyundai Models",
+      "value": "HYUOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Palisade",
+      "value": "HYUNDPALIS"
+    },
+    {
+      "disabled": false,
+      "label": "Santa Cruz",
+      "value": "HYUNSANCR"
+    },
+    {
+      "disabled": false,
+      "label": "Santa Fe",
+      "value": "SANTAFE"
+    },
+    {
+      "disabled": false,
+      "label": "Scoupe",
+      "value": "SCOUPE"
+    },
+    {
+      "disabled": false,
+      "label": "Sonata",
+      "value": "SONATA"
+    },
+    {
+      "disabled": false,
+      "label": "Tiburon",
+      "value": "TIBURO"
+    },
+    {
+      "disabled": false,
+      "label": "Tucson",
+      "value": "TUCSON"
+    },
+    {
+      "disabled": false,
+      "label": "Veloster",
+      "value": "VELOSTER"
+    },
+    {
+      "disabled": false,
+      "label": "Veloster N",
+      "value": "HYUNDVELON"
+    },
+    {
+      "disabled": false,
+      "label": "Venue",
+      "value": "HYUNDVENUE"
+    },
+    {
+      "disabled": false,
+      "label": "Veracruz",
+      "value": "VERACRUZ"
+    },
+    {
+      "disabled": false,
+      "label": "XG300",
+      "value": "XG300"
+    },
+    {
+      "disabled": false,
+      "label": "XG350",
+      "value": "XG350"
+    }
+  ],
+  "INFIN": [
+    {
+      "disabled": false,
+      "label": "EX35",
+      "value": "EX35"
+    },
+    {
+      "disabled": false,
+      "label": "EX37",
+      "value": "EX37"
+    },
+    {
+      "disabled": false,
+      "label": "FX35",
+      "value": "FX35"
+    },
+    {
+      "disabled": false,
+      "label": "FX37",
+      "value": "FX37"
+    },
+    {
+      "disabled": false,
+      "label": "FX45",
+      "value": "FX45"
+    },
+    {
+      "disabled": false,
+      "label": "FX50",
+      "value": "FX50"
+    },
+    {
+      "disabled": false,
+      "label": "G20",
+      "value": "G20"
+    },
+    {
+      "disabled": false,
+      "label": "G25",
+      "value": "G25"
+    },
+    {
+      "disabled": false,
+      "label": "G35",
+      "value": "G35"
+    },
+    {
+      "disabled": false,
+      "label": "G37",
+      "value": "G37"
+    },
+    {
+      "disabled": false,
+      "label": "I30",
+      "value": "I30"
+    },
+    {
+      "disabled": false,
+      "label": "I35",
+      "value": "I35"
+    },
+    {
+      "disabled": false,
+      "label": "J30",
+      "value": "J30"
+    },
+    {
+      "disabled": false,
+      "label": "JX35",
+      "value": "JX35"
+    },
+    {
+      "disabled": false,
+      "label": "M30",
+      "value": "M30"
+    },
+    {
+      "disabled": false,
+      "label": "M35",
+      "value": "M35"
+    },
+    {
+      "disabled": false,
+      "label": "M35h",
+      "value": "M35HYBRID"
+    },
+    {
+      "disabled": false,
+      "label": "M37",
+      "value": "M37"
+    },
+    {
+      "disabled": false,
+      "label": "M45",
+      "value": "M45"
+    },
+    {
+      "disabled": false,
+      "label": "M56",
+      "value": "M56"
+    },
+    {
+      "disabled": false,
+      "label": "Other Infiniti Models",
+      "value": "INFOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Q40",
+      "value": "INFINQ40"
+    },
+    {
+      "disabled": false,
+      "label": "Q45",
+      "value": "Q45"
+    },
+    {
+      "disabled": false,
+      "label": "Q50",
+      "value": "INFINQ50"
+    },
+    {
+      "disabled": false,
+      "label": "Q60",
+      "value": "INFINQ60"
+    },
+    {
+      "disabled": false,
+      "label": "Q70",
+      "value": "INFINQ70"
+    },
+    {
+      "disabled": false,
+      "label": "QX30",
+      "value": "INFINQX30"
+    },
+    {
+      "disabled": false,
+      "label": "QX4",
+      "value": "QX4"
+    },
+    {
+      "disabled": false,
+      "label": "QX50",
+      "value": "INFINQX50"
+    },
+    {
+      "disabled": false,
+      "label": "QX55",
+      "value": "INFINQX55"
+    },
+    {
+      "disabled": false,
+      "label": "QX56",
+      "value": "QX56"
+    },
+    {
+      "disabled": false,
+      "label": "QX60",
+      "value": "INFINQX60"
+    },
+    {
+      "disabled": false,
+      "label": "QX70",
+      "value": "INFINQX70"
+    },
+    {
+      "disabled": false,
+      "label": "QX80",
+      "value": "INFINQX80"
+    }
+  ],
+  "ISU": [
+    {
+      "disabled": false,
+      "label": "Amigo",
+      "value": "AMIGO"
+    },
+    {
+      "disabled": false,
+      "label": "Ascender",
+      "value": "ASCENDER"
+    },
+    {
+      "disabled": false,
+      "label": "Axiom",
+      "value": "AXIOM"
+    },
+    {
+      "disabled": false,
+      "label": "Hombre",
+      "value": "HOMBRE"
+    },
+    {
+      "disabled": false,
+      "label": "i-280",
+      "value": "I280"
+    },
+    {
+      "disabled": false,
+      "label": "i-290",
+      "value": "I290"
+    },
+    {
+      "disabled": false,
+      "label": "i-350",
+      "value": "I350"
+    },
+    {
+      "disabled": false,
+      "label": "i-370",
+      "value": "I370"
+    },
+    {
+      "disabled": false,
+      "label": "I-Mark",
+      "value": "ISUMARK"
+    },
+    {
+      "disabled": false,
+      "label": "Impulse",
+      "value": "ISUIMP"
+    },
+    {
+      "disabled": false,
+      "label": "Oasis",
+      "value": "OASIS"
+    },
+    {
+      "disabled": false,
+      "label": "Other Isuzu Models",
+      "value": "ISUOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "ISUPU"
+    },
+    {
+      "disabled": false,
+      "label": "Rodeo",
+      "value": "RODEO"
+    },
+    {
+      "disabled": false,
+      "label": "Stylus",
+      "value": "STYLUS"
+    },
+    {
+      "disabled": false,
+      "label": "Trooper",
+      "value": "TROOP"
+    },
+    {
+      "disabled": false,
+      "label": "Trooper II",
+      "value": "TRP2"
+    },
+    {
+      "disabled": false,
+      "label": "VehiCROSS",
+      "value": "VEHICROSS"
+    }
+  ],
+  "JAG": [
+    {
+      "disabled": false,
+      "label": "E-PACE",
+      "value": "JAGEPACE"
+    },
+    {
+      "disabled": false,
+      "label": "F-PACE",
+      "value": "JAGFPACE"
+    },
+    {
+      "disabled": false,
+      "label": "F-TYPE",
+      "value": "JAGFTYPE"
+    },
+    {
+      "disabled": false,
+      "label": "I-PACE",
+      "value": "JAGIPACE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Jaguar Models",
+      "value": "JAGOTH"
+    },
+    {
+      "disabled": false,
+      "label": "S-TYPE",
+      "value": "STYPE"
+    },
+    {
+      "disabled": false,
+      "label": "X-TYPE",
+      "value": "XTYPE"
+    },
+    {
+      "disabled": false,
+      "label": "XE",
+      "value": "JAGXE"
+    },
+    {
+      "disabled": false,
+      "label": "XF",
+      "value": "XF"
+    },
+    {
+      "disabled": false,
+      "label": "XJ",
+      "value": "XJ"
+    },
+    {
+      "disabled": false,
+      "label": "XJ Sport",
+      "value": "XJSPORT"
+    },
+    {
+      "disabled": false,
+      "label": "XJ Vanden Plas",
+      "value": "VANDEN"
+    },
+    {
+      "disabled": false,
+      "label": "XJ12",
+      "value": "JAGXJ12"
+    },
+    {
+      "disabled": false,
+      "label": "XJ6",
+      "value": "JAGXJ6"
+    },
+    {
+      "disabled": false,
+      "label": "XJ8",
+      "value": "XJ8"
+    },
+    {
+      "disabled": false,
+      "label": "XJ8 L",
+      "value": "XJ8L"
+    },
+    {
+      "disabled": false,
+      "label": "XJR",
+      "value": "JAGXJR"
+    },
+    {
+      "disabled": false,
+      "label": "XJR-S",
+      "value": "JAGXJRS"
+    },
+    {
+      "disabled": false,
+      "label": "XJS",
+      "value": "JAGXJS"
+    },
+    {
+      "disabled": false,
+      "label": "XK",
+      "value": "XK"
+    },
+    {
+      "disabled": false,
+      "label": "XK8",
+      "value": "JAGXK8"
+    },
+    {
+      "disabled": false,
+      "label": "XKR",
+      "value": "XKR"
+    }
+  ],
+  "JEEP": [
+    {
+      "disabled": false,
+      "label": "Cherokee",
+      "value": "CHER"
+    },
+    {
+      "disabled": false,
+      "label": "CJ",
+      "value": "JEEPCJ"
+    },
+    {
+      "disabled": false,
+      "label": "Comanche",
+      "value": "COMANC"
+    },
+    {
+      "disabled": false,
+      "label": "Commander",
+      "value": "COMMANDER"
+    },
+    {
+      "disabled": false,
+      "label": "Compass",
+      "value": "COMPASS"
+    },
+    {
+      "disabled": false,
+      "label": "Gladiator",
+      "value": "JEEPGLAD"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Cherokee",
+      "value": "JEEPGRAND"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Cherokee L",
+      "value": "JEEPGRANDL"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Wagoneer",
+      "value": "GRWAG"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Wagoneer L",
+      "value": "JEEPGRWAGL"
+    },
+    {
+      "disabled": false,
+      "label": "Liberty",
+      "value": "LIBERTY"
+    },
+    {
+      "disabled": false,
+      "label": "Other Jeep Models",
+      "value": "JEOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Patriot",
+      "value": "PATRIOT"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "JEEPPU"
+    },
+    {
+      "disabled": false,
+      "label": "Renegade",
+      "value": "JEEPRENEG"
+    },
+    {
+      "disabled": false,
+      "label": "Scrambler",
+      "value": "SCRAMBLE"
+    },
+    {
+      "disabled": false,
+      "label": "Wagoneer",
+      "value": "WAGONE"
+    },
+    {
+      "disabled": false,
+      "label": "Wagoneer L",
+      "value": "JEEPWAGONL"
+    },
+    {
+      "disabled": false,
+      "label": "Wrangler",
+      "value": "WRANGLER"
+    }
+  ],
+  "KARMA": [
+    {
+      "disabled": false,
+      "label": "GS-6",
+      "value": "KARMAGS6"
+    },
+    {
+      "disabled": false,
+      "label": "Revero",
+      "value": "KARMREVERO"
+    }
+  ],
+  "KIA": [
+    {
+      "disabled": false,
+      "label": "Amanti",
+      "value": "AMANTI"
+    },
+    {
+      "disabled": false,
+      "label": "Borrego",
+      "value": "BORREGO"
+    },
+    {
+      "disabled": false,
+      "label": "Cadenza",
+      "value": "KIACADENZA"
+    },
+    {
+      "disabled": false,
+      "label": "Carnival",
+      "value": "KIACARN"
+    },
+    {
+      "disabled": false,
+      "label": "EV6",
+      "value": "KIAEV6"
+    },
+    {
+      "disabled": false,
+      "label": "Forte",
+      "value": "FORTE"
+    },
+    {
+      "disabled": false,
+      "label": "Forte Koup",
+      "value": "FORTEKOUP"
+    },
+    {
+      "disabled": false,
+      "label": "K5",
+      "value": "KIAK5"
+    },
+    {
+      "disabled": false,
+      "label": "K900",
+      "value": "KIAK900"
+    },
+    {
+      "disabled": false,
+      "label": "Niro",
+      "value": "KIANIRO"
+    },
+    {
+      "disabled": false,
+      "label": "Optima",
+      "value": "OPTIMA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Kia Models",
+      "value": "KIAOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Rio",
+      "value": "RIO"
+    },
+    {
+      "disabled": false,
+      "label": "Rio5",
+      "value": "RIO5"
+    },
+    {
+      "disabled": false,
+      "label": "Rondo",
+      "value": "RONDO"
+    },
+    {
+      "disabled": false,
+      "label": "Sedona",
+      "value": "SEDONA"
+    },
+    {
+      "disabled": false,
+      "label": "Seltos",
+      "value": "KIASELTOS"
+    },
+    {
+      "disabled": false,
+      "label": "Sephia",
+      "value": "SEPHIA"
+    },
+    {
+      "disabled": false,
+      "label": "Sorento",
+      "value": "SORENTO"
+    },
+    {
+      "disabled": false,
+      "label": "Soul",
+      "value": "SOUL"
+    },
+    {
+      "disabled": false,
+      "label": "Spectra",
+      "value": "SPECTRA"
+    },
+    {
+      "disabled": false,
+      "label": "Spectra5",
+      "value": "SPECTRA5"
+    },
+    {
+      "disabled": false,
+      "label": "Sportage",
+      "value": "SPORTA"
+    },
+    {
+      "disabled": false,
+      "label": "Stinger",
+      "value": "KIASTING"
+    },
+    {
+      "disabled": false,
+      "label": "Telluride",
+      "value": "KIATELLURD"
+    }
+  ],
+  "LAM": [
+    {
+      "disabled": false,
+      "label": "Aventador",
+      "value": "AVENT"
+    },
+    {
+      "disabled": false,
+      "label": "Centenario",
+      "value": "LAMCENTEN"
+    },
+    {
+      "disabled": false,
+      "label": "Countach",
+      "value": "COUNT"
+    },
+    {
+      "disabled": false,
+      "label": "Diablo",
+      "value": "DIABLO"
+    },
+    {
+      "disabled": false,
+      "label": "Gallardo",
+      "value": "GALLARDO"
+    },
+    {
+      "disabled": false,
+      "label": "Huracan",
+      "value": "LAMHURACAN"
+    },
+    {
+      "disabled": false,
+      "label": "Jalpa",
+      "value": "JALPA"
+    },
+    {
+      "disabled": false,
+      "label": "LM002",
+      "value": "LM002"
+    },
+    {
+      "disabled": false,
+      "label": "Murcielago",
+      "value": "MURCIELAGO"
+    },
+    {
+      "disabled": false,
+      "label": "Other Lamborghini Models",
+      "value": "LAMOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Sian",
+      "value": "LAMSIAN"
+    },
+    {
+      "disabled": false,
+      "label": "Urus",
+      "value": "LAMURUS"
+    }
+  ],
+  "ROV": [
+    {
+      "disabled": false,
+      "label": "Defender",
+      "value": "DEFEND"
+    },
+    {
+      "disabled": false,
+      "label": "Discovery",
+      "value": "DISCOV"
+    },
+    {
+      "disabled": false,
+      "label": "Discovery Sport",
+      "value": "ROVDISCSPT"
+    },
+    {
+      "disabled": false,
+      "label": "Freelander",
+      "value": "FRELNDR"
+    },
+    {
+      "disabled": false,
+      "label": "LR2",
+      "value": "LR2"
+    },
+    {
+      "disabled": false,
+      "label": "LR3",
+      "value": "LR3"
+    },
+    {
+      "disabled": false,
+      "label": "LR4",
+      "value": "LR4"
+    },
+    {
+      "disabled": false,
+      "label": "Other Land Rover Models",
+      "value": "ROVOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Range Rover",
+      "value": "RANGE"
+    },
+    {
+      "disabled": false,
+      "label": "Range Rover Evoque",
+      "value": "EVOQUE"
+    },
+    {
+      "disabled": false,
+      "label": "Range Rover Sport",
+      "value": "RANGESPORT"
+    },
+    {
+      "disabled": false,
+      "label": "Range Rover Velar",
+      "value": "ROVVELAR"
+    }
+  ],
+  "LEXUS": [
+    {
+      "disabled": false,
+      "label": "CT 200h",
+      "value": "CT200H"
+    },
+    {
+      "disabled": false,
+      "label": "ES 250",
+      "value": "ES250"
+    },
+    {
+      "disabled": false,
+      "label": "ES 300",
+      "value": "ES300"
+    },
+    {
+      "disabled": false,
+      "label": "ES 300h",
+      "value": "ES300H"
+    },
+    {
+      "disabled": false,
+      "label": "ES 330",
+      "value": "ES330"
+    },
+    {
+      "disabled": false,
+      "label": "ES 350",
+      "value": "ES350"
+    },
+    {
+      "disabled": false,
+      "label": "GS 200t",
+      "value": "LEXGS200T"
+    },
+    {
+      "disabled": false,
+      "label": "GS 300",
+      "value": "GS300"
+    },
+    {
+      "disabled": false,
+      "label": "GS 350",
+      "value": "GS350"
+    },
+    {
+      "disabled": false,
+      "label": "GS 400",
+      "value": "GS400"
+    },
+    {
+      "disabled": false,
+      "label": "GS 430",
+      "value": "GS430"
+    },
+    {
+      "disabled": false,
+      "label": "GS 450h",
+      "value": "GS450H"
+    },
+    {
+      "disabled": false,
+      "label": "GS 460",
+      "value": "GS460"
+    },
+    {
+      "disabled": false,
+      "label": "GS F",
+      "value": "LEXGSF"
+    },
+    {
+      "disabled": false,
+      "label": "GX 460",
+      "value": "GX460"
+    },
+    {
+      "disabled": false,
+      "label": "GX 470",
+      "value": "GX470"
+    },
+    {
+      "disabled": false,
+      "label": "HS 250h",
+      "value": "HS250H"
+    },
+    {
+      "disabled": false,
+      "label": "IS 200t",
+      "value": "LEXIS200T"
+    },
+    {
+      "disabled": false,
+      "label": "IS 250",
+      "value": "IS250"
+    },
+    {
+      "disabled": false,
+      "label": "IS 250C",
+      "value": "IS250C"
+    },
+    {
+      "disabled": false,
+      "label": "IS 300",
+      "value": "IS300"
+    },
+    {
+      "disabled": false,
+      "label": "IS 350",
+      "value": "IS350"
+    },
+    {
+      "disabled": false,
+      "label": "IS 350C",
+      "value": "IS350C"
+    },
+    {
+      "disabled": false,
+      "label": "IS 500",
+      "value": "LEXIS500"
+    },
+    {
+      "disabled": false,
+      "label": "IS F",
+      "value": "ISF"
+    },
+    {
+      "disabled": false,
+      "label": "LC 500",
+      "value": "LEXLC500"
+    },
+    {
+      "disabled": false,
+      "label": "LC 500h",
+      "value": "LEXLC500H"
+    },
+    {
+      "disabled": false,
+      "label": "LFA",
+      "value": "LEXLFA"
+    },
+    {
+      "disabled": false,
+      "label": "LS 400",
+      "value": "LS400"
+    },
+    {
+      "disabled": false,
+      "label": "LS 430",
+      "value": "LS430"
+    },
+    {
+      "disabled": false,
+      "label": "LS 460",
+      "value": "LS460"
+    },
+    {
+      "disabled": false,
+      "label": "LS 500",
+      "value": "LEXLS500"
+    },
+    {
+      "disabled": false,
+      "label": "LS 500h",
+      "value": "LEXLS500H"
+    },
+    {
+      "disabled": false,
+      "label": "LS 600h",
+      "value": "LS600H"
+    },
+    {
+      "disabled": false,
+      "label": "LX 450",
+      "value": "LX450"
+    },
+    {
+      "disabled": false,
+      "label": "LX 470",
+      "value": "LX470"
+    },
+    {
+      "disabled": false,
+      "label": "LX 570",
+      "value": "LX570"
+    },
+    {
+      "disabled": false,
+      "label": "LX 600",
+      "value": "LEXLX600"
+    },
+    {
+      "disabled": false,
+      "label": "NX 200t",
+      "value": "LEXNX200T"
+    },
+    {
+      "disabled": false,
+      "label": "NX 250",
+      "value": "LEXNX250"
+    },
+    {
+      "disabled": false,
+      "label": "NX 300",
+      "value": "LEXNX300"
+    },
+    {
+      "disabled": false,
+      "label": "NX 300h",
+      "value": "LEXNX300H"
+    },
+    {
+      "disabled": false,
+      "label": "NX 350",
+      "value": "LEXNX350"
+    },
+    {
+      "disabled": false,
+      "label": "NX 350h",
+      "value": "LEXNX350H"
+    },
+    {
+      "disabled": false,
+      "label": "NX 450h+",
+      "value": "LEXNX450H"
+    },
+    {
+      "disabled": false,
+      "label": "Other Lexus Models",
+      "value": "LEXOTH"
+    },
+    {
+      "disabled": false,
+      "label": "RC 200t",
+      "value": "LEXRC200T"
+    },
+    {
+      "disabled": false,
+      "label": "RC 300",
+      "value": "LEXRC300"
+    },
+    {
+      "disabled": false,
+      "label": "RC 350",
+      "value": "LEXRC350"
+    },
+    {
+      "disabled": false,
+      "label": "RC F",
+      "value": "LEXRCF"
+    },
+    {
+      "disabled": false,
+      "label": "RX 300",
+      "value": "RX300"
+    },
+    {
+      "disabled": false,
+      "label": "RX 330",
+      "value": "RX330"
+    },
+    {
+      "disabled": false,
+      "label": "RX 350",
+      "value": "RX350"
+    },
+    {
+      "disabled": false,
+      "label": "RX 350h",
+      "value": "LEXRX350H"
+    },
+    {
+      "disabled": false,
+      "label": "RX 350L",
+      "value": "LEXRX350L"
+    },
+    {
+      "disabled": false,
+      "label": "RX 400h",
+      "value": "RX400H"
+    },
+    {
+      "disabled": false,
+      "label": "RX 450h",
+      "value": "RX450H"
+    },
+    {
+      "disabled": false,
+      "label": "RX 450hL",
+      "value": "LEXRX450HL"
+    },
+    {
+      "disabled": false,
+      "label": "RX 500h",
+      "value": "LEXRX500H"
+    },
+    {
+      "disabled": false,
+      "label": "RZ 450e",
+      "value": "LEXRZ450E"
+    },
+    {
+      "disabled": false,
+      "label": "SC 300",
+      "value": "SC300"
+    },
+    {
+      "disabled": false,
+      "label": "SC 400",
+      "value": "SC400"
+    },
+    {
+      "disabled": false,
+      "label": "SC 430",
+      "value": "SC430"
+    },
+    {
+      "disabled": false,
+      "label": "TX 350",
+      "value": "LEXTX350"
+    },
+    {
+      "disabled": false,
+      "label": "TX 500h",
+      "value": "LEXTX500H"
+    },
+    {
+      "disabled": false,
+      "label": "UX 200",
+      "value": "LEXUX200"
+    },
+    {
+      "disabled": false,
+      "label": "UX 250h",
+      "value": "LEXUX250H"
+    }
+  ],
+  "LINC": [
+    {
+      "disabled": false,
+      "label": "Aviator",
+      "value": "AVIATOR"
+    },
+    {
+      "disabled": false,
+      "label": "Blackwood",
+      "value": "BLKWOOD"
+    },
+    {
+      "disabled": false,
+      "label": "Continental",
+      "value": "CONT"
+    },
+    {
+      "disabled": false,
+      "label": "Corsair",
+      "value": "LINCCORS"
+    },
+    {
+      "disabled": false,
+      "label": "LS",
+      "value": "LSLINCOLN"
+    },
+    {
+      "disabled": false,
+      "label": "Mark LT",
+      "value": "MARKLT"
+    },
+    {
+      "disabled": false,
+      "label": "Mark VI",
+      "value": "MARK6"
+    },
+    {
+      "disabled": false,
+      "label": "Mark VII",
+      "value": "MARK7"
+    },
+    {
+      "disabled": false,
+      "label": "Mark VIII",
+      "value": "MARK8"
+    },
+    {
+      "disabled": false,
+      "label": "MKC",
+      "value": "LINCMKC"
+    },
+    {
+      "disabled": false,
+      "label": "MKS",
+      "value": "MKS"
+    },
+    {
+      "disabled": false,
+      "label": "MKT",
+      "value": "MKT"
+    },
+    {
+      "disabled": false,
+      "label": "MKX",
+      "value": "MKX"
+    },
+    {
+      "disabled": false,
+      "label": "MKZ",
+      "value": "MKZ"
+    },
+    {
+      "disabled": false,
+      "label": "Nautilus",
+      "value": "LINCNAUT"
+    },
+    {
+      "disabled": false,
+      "label": "Navigator",
+      "value": "NAVIGA"
+    },
+    {
+      "disabled": false,
+      "label": "Navigator L",
+      "value": "NAVIGAL"
+    },
+    {
+      "disabled": false,
+      "label": "Other Lincoln Models",
+      "value": "LINOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Town Car",
+      "value": "LINCTC"
+    },
+    {
+      "disabled": false,
+      "label": "Zephyr",
+      "value": "ZEPHYR"
+    }
+  ],
+  "LOTUS": [
+    {
+      "disabled": false,
+      "label": "Elan",
+      "value": "ELAN"
+    },
+    {
+      "disabled": false,
+      "label": "Elise",
+      "value": "LOTELISE"
+    },
+    {
+      "disabled": false,
+      "label": "Esprit",
+      "value": "ESPRIT"
+    },
+    {
+      "disabled": false,
+      "label": "Evora",
+      "value": "EVORA"
+    },
+    {
+      "disabled": false,
+      "label": "Exige",
+      "value": "EXIGE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Lotus Models",
+      "value": "LOTOTH"
+    }
+  ],
+  "LUCID": [
+    {
+      "disabled": false,
+      "label": "Air",
+      "value": "LUCIDAIR"
+    }
+  ],
+  "MAS": [
+    {
+      "disabled": false,
+      "label": "430",
+      "value": "430"
+    },
+    {
+      "disabled": false,
+      "label": "Biturbo",
+      "value": "BITRBO"
+    },
+    {
+      "disabled": false,
+      "label": "Coupe",
+      "value": "COUPEMAS"
+    },
+    {
+      "disabled": false,
+      "label": "Ghibli",
+      "value": "GHIB"
+    },
+    {
+      "disabled": false,
+      "label": "GranSport",
+      "value": "GRANSPORT"
+    },
+    {
+      "disabled": false,
+      "label": "GranTurismo",
+      "value": "GRANTURISM"
+    },
+    {
+      "disabled": false,
+      "label": "Grecale",
+      "value": "MASGRECALE"
+    },
+    {
+      "disabled": false,
+      "label": "Levante",
+      "value": "MASLEVAN"
+    },
+    {
+      "disabled": false,
+      "label": "MC20",
+      "value": "MASMC20"
+    },
+    {
+      "disabled": false,
+      "label": "Other Maserati Models",
+      "value": "MASOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Quattroporte",
+      "value": "QP"
+    },
+    {
+      "disabled": false,
+      "label": "Spyder",
+      "value": "SPYDER"
+    }
+  ],
+  "MAYBACH": [
+    {
+      "disabled": false,
+      "label": "57",
+      "value": "57MAYBACH"
+    },
+    {
+      "disabled": false,
+      "label": "62",
+      "value": "62MAYBACH"
+    },
+    {
+      "disabled": false,
+      "label": "Other Maybach Models",
+      "value": "MAYOTH"
+    }
+  ],
+  "MAZDA": [
+    {
+      "disabled": false,
+      "label": "323",
+      "value": "MAZDA323"
+    },
+    {
+      "disabled": false,
+      "label": "626",
+      "value": "MAZDA626"
+    },
+    {
+      "disabled": false,
+      "label": "929",
+      "value": "929"
+    },
+    {
+      "disabled": false,
+      "label": "B-Series Pickup",
+      "value": "B-SERIES"
+    },
+    {
+      "disabled": false,
+      "label": "CX-3",
+      "value": "MAZCX3"
+    },
+    {
+      "disabled": false,
+      "label": "CX-30",
+      "value": "MAZCX30"
+    },
+    {
+      "disabled": false,
+      "label": "CX-5",
+      "value": "CX-5"
+    },
+    {
+      "disabled": false,
+      "label": "CX-50",
+      "value": "MAZCX50"
+    },
+    {
+      "disabled": false,
+      "label": "CX-7",
+      "value": "CX-7"
+    },
+    {
+      "disabled": false,
+      "label": "CX-9",
+      "value": "CX-9"
+    },
+    {
+      "disabled": false,
+      "label": "CX-90",
+      "value": "MAZCX90"
+    },
+    {
+      "disabled": false,
+      "label": "GLC",
+      "value": "GLC"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDA2",
+      "value": "MAZDA2"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDA3",
+      "value": "MAZDA3"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDA5",
+      "value": "MAZDA5"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDA6",
+      "value": "MAZDA6"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDASPEED3",
+      "value": "MAZDASPD3"
+    },
+    {
+      "disabled": false,
+      "label": "MAZDASPEED6",
+      "value": "MAZDASPD6"
+    },
+    {
+      "disabled": false,
+      "label": "Millenia",
+      "value": "MILL"
+    },
+    {
+      "disabled": false,
+      "label": "MPV",
+      "value": "MPV"
+    },
+    {
+      "disabled": false,
+      "label": "MX-30",
+      "value": "MAZMX30"
+    },
+    {
+      "disabled": false,
+      "label": "MX-5 Miata",
+      "value": "MIATA"
+    },
+    {
+      "disabled": false,
+      "label": "MX-5 Miata RF",
+      "value": "MAZMIATARF"
+    },
+    {
+      "disabled": false,
+      "label": "MX3",
+      "value": "MX3"
+    },
+    {
+      "disabled": false,
+      "label": "MX6",
+      "value": "MX6"
+    },
+    {
+      "disabled": false,
+      "label": "Navajo",
+      "value": "NAVAJO"
+    },
+    {
+      "disabled": false,
+      "label": "Other Mazda Models",
+      "value": "MAZOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Protege",
+      "value": "PROTE"
+    },
+    {
+      "disabled": false,
+      "label": "Protege5",
+      "value": "PROTE5"
+    },
+    {
+      "disabled": false,
+      "label": "RX-7",
+      "value": "RX7"
+    },
+    {
+      "disabled": false,
+      "label": "RX-8",
+      "value": "RX8"
+    },
+    {
+      "disabled": false,
+      "label": "Tribute",
+      "value": "TRIBUTE"
+    }
+  ],
+  "MCLAREN": [
+    {
+      "disabled": false,
+      "label": "570GT",
+      "value": "MCL570GT"
+    },
+    {
+      "disabled": false,
+      "label": "570S",
+      "value": "MCL570S"
+    },
+    {
+      "disabled": false,
+      "label": "600LT",
+      "value": "MCL600LT"
+    },
+    {
+      "disabled": false,
+      "label": "620R",
+      "value": "MCL620R"
+    },
+    {
+      "disabled": false,
+      "label": "650S",
+      "value": "MCL650S"
+    },
+    {
+      "disabled": false,
+      "label": "675LT",
+      "value": "MCL675LT"
+    },
+    {
+      "disabled": false,
+      "label": "720S",
+      "value": "MCL720S"
+    },
+    {
+      "disabled": false,
+      "label": "765LT",
+      "value": "MCL765LT"
+    },
+    {
+      "disabled": false,
+      "label": "Artura",
+      "value": "MCLARTURA"
+    },
+    {
+      "disabled": false,
+      "label": "Elva",
+      "value": "MCLELVA"
+    },
+    {
+      "disabled": false,
+      "label": "GT",
+      "value": "MCLGT"
+    },
+    {
+      "disabled": false,
+      "label": "MP4-12C",
+      "value": "MP4"
+    },
+    {
+      "disabled": false,
+      "label": "Other McLaren Models",
+      "value": "MCLOTH"
+    },
+    {
+      "disabled": false,
+      "label": "P1",
+      "value": "MCLP1"
+    },
+    {
+      "disabled": false,
+      "label": "Sabre",
+      "value": "MCLSABRE"
+    },
+    {
+      "disabled": false,
+      "label": "Senna",
+      "value": "MCLSENNA"
+    },
+    {
+      "disabled": false,
+      "label": "Speedtail",
+      "value": "MCLSPEEDT"
+    }
+  ],
+  "MB": [
+    {
+      "disabled": false,
+      "label": "190 D",
+      "value": "190D"
+    },
+    {
+      "disabled": false,
+      "label": "190 E",
+      "value": "190E"
+    },
+    {
+      "disabled": false,
+      "label": "240 D",
+      "value": "240D"
+    },
+    {
+      "disabled": false,
+      "label": "260 E",
+      "value": "260E"
+    },
+    {
+      "disabled": false,
+      "label": "280 CE",
+      "value": "280CE"
+    },
+    {
+      "disabled": false,
+      "label": "280 E",
+      "value": "280E"
+    },
+    {
+      "disabled": false,
+      "label": "300 CD",
+      "value": "300CD"
+    },
+    {
+      "disabled": false,
+      "label": "300 CE",
+      "value": "300CE"
+    },
+    {
+      "disabled": false,
+      "label": "300 D",
+      "value": "300D"
+    },
+    {
+      "disabled": false,
+      "label": "300 E",
+      "value": "300E"
+    },
+    {
+      "disabled": false,
+      "label": "300 SD",
+      "value": "300SD"
+    },
+    {
+      "disabled": false,
+      "label": "300 SDL",
+      "value": "300SDL"
+    },
+    {
+      "disabled": false,
+      "label": "300 SE",
+      "value": "300SE"
+    },
+    {
+      "disabled": false,
+      "label": "300 SEL",
+      "value": "300SEL"
+    },
+    {
+      "disabled": false,
+      "label": "300 SL",
+      "value": "300SL"
+    },
+    {
+      "disabled": false,
+      "label": "300 TD",
+      "value": "300TD"
+    },
+    {
+      "disabled": false,
+      "label": "300 TE",
+      "value": "300TE"
+    },
+    {
+      "disabled": false,
+      "label": "350 SD",
+      "value": "350SD"
+    },
+    {
+      "disabled": false,
+      "label": "350 SDL",
+      "value": "350SDL"
+    },
+    {
+      "disabled": false,
+      "label": "380 SE",
+      "value": "380SE"
+    },
+    {
+      "disabled": false,
+      "label": "380 SEC",
+      "value": "380SEC"
+    },
+    {
+      "disabled": false,
+      "label": "380 SEL",
+      "value": "380SEL"
+    },
+    {
+      "disabled": false,
+      "label": "380 SL",
+      "value": "380SL"
+    },
+    {
+      "disabled": false,
+      "label": "380 SLC",
+      "value": "380SLC"
+    },
+    {
+      "disabled": false,
+      "label": "400 E",
+      "value": "400E"
+    },
+    {
+      "disabled": false,
+      "label": "400 SE",
+      "value": "400SE"
+    },
+    {
+      "disabled": false,
+      "label": "400 SEL",
+      "value": "400SEL"
+    },
+    {
+      "disabled": false,
+      "label": "420 SEL",
+      "value": "420SEL"
+    },
+    {
+      "disabled": false,
+      "label": "500 E",
+      "value": "500E"
+    },
+    {
+      "disabled": false,
+      "label": "500 SEC",
+      "value": "500SEC"
+    },
+    {
+      "disabled": false,
+      "label": "500 SEL",
+      "value": "500SEL"
+    },
+    {
+      "disabled": false,
+      "label": "500 SL",
+      "value": "500SL"
+    },
+    {
+      "disabled": false,
+      "label": "560 SEC",
+      "value": "560SEC"
+    },
+    {
+      "disabled": false,
+      "label": "560 SEL",
+      "value": "560SEL"
+    },
+    {
+      "disabled": false,
+      "label": "560 SL",
+      "value": "560SL"
+    },
+    {
+      "disabled": false,
+      "label": "600 SEC",
+      "value": "600SEC"
+    },
+    {
+      "disabled": false,
+      "label": "600 SEL",
+      "value": "600SEL"
+    },
+    {
+      "disabled": false,
+      "label": "600 SL",
+      "value": "600SL"
+    },
+    {
+      "disabled": false,
+      "label": "A 220",
+      "value": "MBA220"
+    },
+    {
+      "disabled": false,
+      "label": "A 35 AMG",
+      "value": "MBA35AMG"
+    },
+    {
+      "disabled": false,
+      "label": "AMG GT",
+      "value": "MBAMGGT"
+    },
+    {
+      "disabled": false,
+      "label": "B 250e",
+      "value": "MBB250E"
+    },
+    {
+      "disabled": false,
+      "label": "B-Class Electric Drive",
+      "value": "MBBCLASSED"
+    },
+    {
+      "disabled": false,
+      "label": "C 220",
+      "value": "C220"
+    },
+    {
+      "disabled": false,
+      "label": "C 230",
+      "value": "C230"
+    },
+    {
+      "disabled": false,
+      "label": "C 240",
+      "value": "C240"
+    },
+    {
+      "disabled": false,
+      "label": "C 250",
+      "value": "C250"
+    },
+    {
+      "disabled": false,
+      "label": "C 280",
+      "value": "C280"
+    },
+    {
+      "disabled": false,
+      "label": "C 300",
+      "value": "C300"
+    },
+    {
+      "disabled": false,
+      "label": "C 32 AMG",
+      "value": "C32AMG"
+    },
+    {
+      "disabled": false,
+      "label": "C 320",
+      "value": "C320"
+    },
+    {
+      "disabled": false,
+      "label": "C 350",
+      "value": "C350"
+    },
+    {
+      "disabled": false,
+      "label": "C 350e",
+      "value": "MBC350E"
+    },
+    {
+      "disabled": false,
+      "label": "C 36 AMG",
+      "value": "C36AMG"
+    },
+    {
+      "disabled": false,
+      "label": "C 400",
+      "value": "MBC400"
+    },
+    {
+      "disabled": false,
+      "label": "C 43 AMG",
+      "value": "C43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "C 450",
+      "value": "MBC450"
+    },
+    {
+      "disabled": false,
+      "label": "C 55 AMG",
+      "value": "C55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "C 63 AMG",
+      "value": "C63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CL 500",
+      "value": "CL500"
+    },
+    {
+      "disabled": false,
+      "label": "CL 55 AMG",
+      "value": "CL55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CL 550",
+      "value": "CL550"
+    },
+    {
+      "disabled": false,
+      "label": "CL 600",
+      "value": "CL600"
+    },
+    {
+      "disabled": false,
+      "label": "CL 63 AMG",
+      "value": "CL63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CL 65 AMG",
+      "value": "CL65AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLA 250",
+      "value": "MBCLA250"
+    },
+    {
+      "disabled": false,
+      "label": "CLA 35 AMG",
+      "value": "MBCLA35AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLA 45 AMG",
+      "value": "MBCLA45AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 320",
+      "value": "CLK320"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 350",
+      "value": "CLK350"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 430",
+      "value": "CLK430"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 500",
+      "value": "CLK500"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 55 AMG",
+      "value": "CLK55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 550",
+      "value": "CLK550"
+    },
+    {
+      "disabled": false,
+      "label": "CLK 63 AMG",
+      "value": "CLK63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 400",
+      "value": "MBCLS400"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 450",
+      "value": "MBCLS450"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 500",
+      "value": "CLS500"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 53 AMG",
+      "value": "MBCLS53AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 55 AMG",
+      "value": "CLS55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 550",
+      "value": "CLS550"
+    },
+    {
+      "disabled": false,
+      "label": "CLS 63 AMG",
+      "value": "CLS63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "E 250",
+      "value": "MBE250BLUE"
+    },
+    {
+      "disabled": false,
+      "label": "E 300",
+      "value": "E300"
+    },
+    {
+      "disabled": false,
+      "label": "E 320",
+      "value": "E320"
+    },
+    {
+      "disabled": false,
+      "label": "E 350",
+      "value": "E350"
+    },
+    {
+      "disabled": false,
+      "label": "E 400",
+      "value": "MBE400"
+    },
+    {
+      "disabled": false,
+      "label": "E 420",
+      "value": "E420"
+    },
+    {
+      "disabled": false,
+      "label": "E 43 AMG",
+      "value": "MBE43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "E 430",
+      "value": "E430"
+    },
+    {
+      "disabled": false,
+      "label": "E 450",
+      "value": "MBE450"
+    },
+    {
+      "disabled": false,
+      "label": "E 500",
+      "value": "E500"
+    },
+    {
+      "disabled": false,
+      "label": "E 53 AMG",
+      "value": "MBE53AMG"
+    },
+    {
+      "disabled": false,
+      "label": "E 55 AMG",
+      "value": "E55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "E 550",
+      "value": "E550"
+    },
+    {
+      "disabled": false,
+      "label": "E 63 AMG",
+      "value": "E63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "EQB 250+",
+      "value": "MBEQB250"
+    },
+    {
+      "disabled": false,
+      "label": "EQB 300",
+      "value": "MBEQB300"
+    },
+    {
+      "disabled": false,
+      "label": "EQB 350",
+      "value": "MBEQB350"
+    },
+    {
+      "disabled": false,
+      "label": "EQE 350+",
+      "value": "MBEQE350"
+    },
+    {
+      "disabled": false,
+      "label": "EQE 500",
+      "value": "MBEQE500"
+    },
+    {
+      "disabled": false,
+      "label": "EQE AMG",
+      "value": "MBEQEAMG"
+    },
+    {
+      "disabled": false,
+      "label": "EQS 450+",
+      "value": "MBEQS450"
+    },
+    {
+      "disabled": false,
+      "label": "EQS 580",
+      "value": "MBEQS580"
+    },
+    {
+      "disabled": false,
+      "label": "EQS AMG",
+      "value": "MBEQSAMG"
+    },
+    {
+      "disabled": false,
+      "label": "G 500",
+      "value": "G500"
+    },
+    {
+      "disabled": false,
+      "label": "G 55 AMG",
+      "value": "G55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "G 550",
+      "value": "G550"
+    },
+    {
+      "disabled": false,
+      "label": "G 63 AMG",
+      "value": "G63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "G 65 AMG",
+      "value": "MBG65AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GL 320",
+      "value": "GL320BLUE"
+    },
+    {
+      "disabled": false,
+      "label": "GL 350",
+      "value": "GL350BLUE"
+    },
+    {
+      "disabled": false,
+      "label": "GL 450",
+      "value": "GL450"
+    },
+    {
+      "disabled": false,
+      "label": "GL 550",
+      "value": "GL550"
+    },
+    {
+      "disabled": false,
+      "label": "GL 63 AMG",
+      "value": "GL63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLA 250",
+      "value": "MBGLA250"
+    },
+    {
+      "disabled": false,
+      "label": "GLA 35 AMG",
+      "value": "MBGLA35AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLA 45 AMG",
+      "value": "MBGLA45AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLB 250",
+      "value": "MBGLB250"
+    },
+    {
+      "disabled": false,
+      "label": "GLB 35 AMG",
+      "value": "MBGLB35AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLC 300",
+      "value": "MBGLC300"
+    },
+    {
+      "disabled": false,
+      "label": "GLC 350e",
+      "value": "MBGLC350E"
+    },
+    {
+      "disabled": false,
+      "label": "GLC 43 AMG",
+      "value": "MBGLC43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLC 63 AMG",
+      "value": "MBGLC63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 300d",
+      "value": "MBGLE300D"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 350",
+      "value": "MBGLE350"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 400",
+      "value": "MBGLE400"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 43 AMG",
+      "value": "MBGLE43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 450",
+      "value": "MBGLE450"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 450e",
+      "value": "MBGLE450E"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 53 AMG",
+      "value": "MBGLE53AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 550e",
+      "value": "MBGLE550E"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 580",
+      "value": "MBGLE580"
+    },
+    {
+      "disabled": false,
+      "label": "GLE 63 AMG",
+      "value": "MBGLE63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "GLK 250",
+      "value": "GLK250BLUE"
+    },
+    {
+      "disabled": false,
+      "label": "GLK 350",
+      "value": "GLK350"
+    },
+    {
+      "disabled": false,
+      "label": "GLS 350d",
+      "value": "MBGLS350D"
+    },
+    {
+      "disabled": false,
+      "label": "GLS 450",
+      "value": "MBGLS450"
+    },
+    {
+      "disabled": false,
+      "label": "GLS 550",
+      "value": "MBGLS550"
+    },
+    {
+      "disabled": false,
+      "label": "GLS 580",
+      "value": "MBGLS580"
+    },
+    {
+      "disabled": false,
+      "label": "GLS 63 AMG",
+      "value": "MBGLS63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach GLS 600",
+      "value": "MBMGLS600"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 550",
+      "value": "MBMAYS550"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 560",
+      "value": "MBMAYS560"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 580",
+      "value": "MBMAYS580"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 600",
+      "value": "MBMAYS600"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 650",
+      "value": "MBMAYS650"
+    },
+    {
+      "disabled": false,
+      "label": "Maybach S 680",
+      "value": "MBMAYS680"
+    },
+    {
+      "disabled": false,
+      "label": "Metris",
+      "value": "MBMETRIS"
+    },
+    {
+      "disabled": false,
+      "label": "ML 250",
+      "value": "MBML250BLU"
+    },
+    {
+      "disabled": false,
+      "label": "ML 320",
+      "value": "ML320"
+    },
+    {
+      "disabled": false,
+      "label": "ML 350",
+      "value": "ML350"
+    },
+    {
+      "disabled": false,
+      "label": "ML 400",
+      "value": "MBML400"
+    },
+    {
+      "disabled": false,
+      "label": "ML 430",
+      "value": "ML430"
+    },
+    {
+      "disabled": false,
+      "label": "ML 450",
+      "value": "ML450HY"
+    },
+    {
+      "disabled": false,
+      "label": "ML 500",
+      "value": "ML500"
+    },
+    {
+      "disabled": false,
+      "label": "ML 55 AMG",
+      "value": "ML55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "ML 550",
+      "value": "ML550"
+    },
+    {
+      "disabled": false,
+      "label": "ML 63 AMG",
+      "value": "ML63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "Other Mercedes-Benz Models",
+      "value": "MBOTH"
+    },
+    {
+      "disabled": false,
+      "label": "R 320",
+      "value": "R320BLUE"
+    },
+    {
+      "disabled": false,
+      "label": "R 350",
+      "value": "R350"
+    },
+    {
+      "disabled": false,
+      "label": "R 500",
+      "value": "R500"
+    },
+    {
+      "disabled": false,
+      "label": "R 63 AMG",
+      "value": "R63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "S 320",
+      "value": "S320"
+    },
+    {
+      "disabled": false,
+      "label": "S 350",
+      "value": "S350"
+    },
+    {
+      "disabled": false,
+      "label": "S 400",
+      "value": "S400HY"
+    },
+    {
+      "disabled": false,
+      "label": "S 420",
+      "value": "S420"
+    },
+    {
+      "disabled": false,
+      "label": "S 430",
+      "value": "S430"
+    },
+    {
+      "disabled": false,
+      "label": "S 450",
+      "value": "MBS450"
+    },
+    {
+      "disabled": false,
+      "label": "S 500",
+      "value": "S500"
+    },
+    {
+      "disabled": false,
+      "label": "S 55 AMG",
+      "value": "S55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "S 550",
+      "value": "S550"
+    },
+    {
+      "disabled": false,
+      "label": "S 550e",
+      "value": "MBS550E"
+    },
+    {
+      "disabled": false,
+      "label": "S 560",
+      "value": "MBS560"
+    },
+    {
+      "disabled": false,
+      "label": "S 560e",
+      "value": "MBS560E"
+    },
+    {
+      "disabled": false,
+      "label": "S 580",
+      "value": "MBS580"
+    },
+    {
+      "disabled": false,
+      "label": "S 580e",
+      "value": "MBS580E"
+    },
+    {
+      "disabled": false,
+      "label": "S 600",
+      "value": "S600"
+    },
+    {
+      "disabled": false,
+      "label": "S 63 AMG",
+      "value": "S63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "S 65 AMG",
+      "value": "S65AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SL 320",
+      "value": "SL320"
+    },
+    {
+      "disabled": false,
+      "label": "SL 400",
+      "value": "MBSL400"
+    },
+    {
+      "disabled": false,
+      "label": "SL 43 AMG",
+      "value": "MBSL43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SL 450",
+      "value": "MBSL450"
+    },
+    {
+      "disabled": false,
+      "label": "SL 500",
+      "value": "SL500"
+    },
+    {
+      "disabled": false,
+      "label": "SL 55 AMG",
+      "value": "SL55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SL 550",
+      "value": "SL550"
+    },
+    {
+      "disabled": false,
+      "label": "SL 600",
+      "value": "SL600"
+    },
+    {
+      "disabled": false,
+      "label": "SL 63 AMG",
+      "value": "SL63AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SL 65 AMG",
+      "value": "SL65AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SLC 300",
+      "value": "MBSLC300"
+    },
+    {
+      "disabled": false,
+      "label": "SLC 43 AMG",
+      "value": "MBSLC43AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 230",
+      "value": "SLK230"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 250",
+      "value": "SLK250"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 280",
+      "value": "SLK280"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 300",
+      "value": "SLK300"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 32 AMG",
+      "value": "SLK32AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 320",
+      "value": "SLK320"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 350",
+      "value": "SLK350"
+    },
+    {
+      "disabled": false,
+      "label": "SLK 55 AMG",
+      "value": "SLK55AMG"
+    },
+    {
+      "disabled": false,
+      "label": "SLR",
+      "value": "SLR"
+    },
+    {
+      "disabled": false,
+      "label": "SLS AMG",
+      "value": "SLSAMG"
+    },
+    {
+      "disabled": false,
+      "label": "Sprinter",
+      "value": "MBSPRINTER"
+    }
+  ],
+  "MERC": [
+    {
+      "disabled": false,
+      "label": "Capri",
+      "value": "CAPRI"
+    },
+    {
+      "disabled": false,
+      "label": "Cougar",
+      "value": "COUGAR"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Marquis",
+      "value": "MERCGRAND"
+    },
+    {
+      "disabled": false,
+      "label": "LN7",
+      "value": "LN7"
+    },
+    {
+      "disabled": false,
+      "label": "Lynx",
+      "value": "LYNX"
+    },
+    {
+      "disabled": false,
+      "label": "Marauder",
+      "value": "MARAUDER"
+    },
+    {
+      "disabled": false,
+      "label": "Mariner",
+      "value": "MARINER"
+    },
+    {
+      "disabled": false,
+      "label": "Marquis",
+      "value": "MARQ"
+    },
+    {
+      "disabled": false,
+      "label": "Milan",
+      "value": "MILAN"
+    },
+    {
+      "disabled": false,
+      "label": "Montego",
+      "value": "MONTEGO"
+    },
+    {
+      "disabled": false,
+      "label": "Monterey",
+      "value": "MONTEREY"
+    },
+    {
+      "disabled": false,
+      "label": "Mountaineer",
+      "value": "MOUNTA"
+    },
+    {
+      "disabled": false,
+      "label": "Mystique",
+      "value": "MYSTIQ"
+    },
+    {
+      "disabled": false,
+      "label": "Other Mercury Models",
+      "value": "MEOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Sable",
+      "value": "SABLE"
+    },
+    {
+      "disabled": false,
+      "label": "Topaz",
+      "value": "TOPAZ"
+    },
+    {
+      "disabled": false,
+      "label": "Tracer",
+      "value": "TRACER"
+    },
+    {
+      "disabled": false,
+      "label": "Villager",
+      "value": "VILLA"
+    },
+    {
+      "disabled": false,
+      "label": "Zephyr",
+      "value": "MERCZEP"
+    }
+  ],
+  "MINI": [
+    {
+      "disabled": false,
+      "label": "Cooper",
+      "value": "COOPER"
+    },
+    {
+      "disabled": false,
+      "label": "Cooper Clubman",
+      "value": "COOPERCLUB"
+    },
+    {
+      "disabled": false,
+      "label": "Cooper Countryman",
+      "value": "COUNTRYMAN"
+    },
+    {
+      "disabled": false,
+      "label": "Cooper Coupe",
+      "value": "MINICOUPE"
+    },
+    {
+      "disabled": false,
+      "label": "Cooper Paceman",
+      "value": "MINIPACE"
+    },
+    {
+      "disabled": false,
+      "label": "Cooper Roadster",
+      "value": "COOPERROAD"
+    }
+  ],
+  "MIT": [
+    {
+      "disabled": false,
+      "label": "3000GT",
+      "value": "3000GT"
+    },
+    {
+      "disabled": false,
+      "label": "Cordia",
+      "value": "CORD"
+    },
+    {
+      "disabled": false,
+      "label": "Diamante",
+      "value": "DIAMAN"
+    },
+    {
+      "disabled": false,
+      "label": "Eclipse",
+      "value": "ECLIP"
+    },
+    {
+      "disabled": false,
+      "label": "Eclipse Cross",
+      "value": "MITECLCROS"
+    },
+    {
+      "disabled": false,
+      "label": "Endeavor",
+      "value": "ENDEAVOR"
+    },
+    {
+      "disabled": false,
+      "label": "Expo",
+      "value": "MITEXP"
+    },
+    {
+      "disabled": false,
+      "label": "Galant",
+      "value": "GALANT"
+    },
+    {
+      "disabled": false,
+      "label": "i",
+      "value": "MITI"
+    },
+    {
+      "disabled": false,
+      "label": "Lancer",
+      "value": "LANCERMITS"
+    },
+    {
+      "disabled": false,
+      "label": "Lancer Evolution",
+      "value": "LANCEREVO"
+    },
+    {
+      "disabled": false,
+      "label": "Mighty Max",
+      "value": "MITPU"
+    },
+    {
+      "disabled": false,
+      "label": "Mirage",
+      "value": "MIRAGE"
+    },
+    {
+      "disabled": false,
+      "label": "Mirage G4",
+      "value": "MITMIRG4"
+    },
+    {
+      "disabled": false,
+      "label": "Montero",
+      "value": "MONT"
+    },
+    {
+      "disabled": false,
+      "label": "Montero Sport",
+      "value": "MONTSPORT"
+    },
+    {
+      "disabled": false,
+      "label": "Other Mitsubishi Models",
+      "value": "MITOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Outlander",
+      "value": "OUTLANDER"
+    },
+    {
+      "disabled": false,
+      "label": "Outlander Sport",
+      "value": "OUTLANDSPT"
+    },
+    {
+      "disabled": false,
+      "label": "Precis",
+      "value": "PRECIS"
+    },
+    {
+      "disabled": false,
+      "label": "Raider",
+      "value": "RAIDERMITS"
+    },
+    {
+      "disabled": false,
+      "label": "Sigma",
+      "value": "SIGMA"
+    },
+    {
+      "disabled": false,
+      "label": "Starion",
+      "value": "MITSTAR"
+    },
+    {
+      "disabled": false,
+      "label": "Tredia",
+      "value": "TRED"
+    },
+    {
+      "disabled": false,
+      "label": "Van",
+      "value": "MITVAN"
+    }
+  ],
+  "NISSAN": [
+    {
+      "disabled": false,
+      "label": "200SX",
+      "value": "NIS200SX"
+    },
+    {
+      "disabled": false,
+      "label": "240SX",
+      "value": "240SX"
+    },
+    {
+      "disabled": false,
+      "label": "300ZX",
+      "value": "300ZXTURBO"
+    },
+    {
+      "disabled": false,
+      "label": "350Z",
+      "value": "350Z"
+    },
+    {
+      "disabled": false,
+      "label": "370Z",
+      "value": "370Z"
+    },
+    {
+      "disabled": false,
+      "label": "Altima",
+      "value": "ALTIMA"
+    },
+    {
+      "disabled": false,
+      "label": "Ariya",
+      "value": "NISARIYA"
+    },
+    {
+      "disabled": false,
+      "label": "Armada",
+      "value": "PATHARMADA"
+    },
+    {
+      "disabled": false,
+      "label": "Axxess",
+      "value": "AXXESS"
+    },
+    {
+      "disabled": false,
+      "label": "Cube",
+      "value": "CUBE"
+    },
+    {
+      "disabled": false,
+      "label": "Frontier",
+      "value": "FRONTI"
+    },
+    {
+      "disabled": false,
+      "label": "GT-R",
+      "value": "GT-R"
+    },
+    {
+      "disabled": false,
+      "label": "Juke",
+      "value": "JUKE"
+    },
+    {
+      "disabled": false,
+      "label": "Kicks",
+      "value": "NISKICKS"
+    },
+    {
+      "disabled": false,
+      "label": "Leaf",
+      "value": "LEAF"
+    },
+    {
+      "disabled": false,
+      "label": "Maxima",
+      "value": "MAX"
+    },
+    {
+      "disabled": false,
+      "label": "Murano",
+      "value": "MURANO"
+    },
+    {
+      "disabled": false,
+      "label": "Murano CrossCabriolet",
+      "value": "MURANOCROS"
+    },
+    {
+      "disabled": false,
+      "label": "NV",
+      "value": "NV"
+    },
+    {
+      "disabled": false,
+      "label": "NV200",
+      "value": "NISNV200"
+    },
+    {
+      "disabled": false,
+      "label": "NX",
+      "value": "NX"
+    },
+    {
+      "disabled": false,
+      "label": "Other Nissan Models",
+      "value": "NISSOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Pathfinder",
+      "value": "PATH"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "NISPU"
+    },
+    {
+      "disabled": false,
+      "label": "Pulsar",
+      "value": "PULSAR"
+    },
+    {
+      "disabled": false,
+      "label": "Quest",
+      "value": "QUEST"
+    },
+    {
+      "disabled": false,
+      "label": "Rogue",
+      "value": "ROGUE"
+    },
+    {
+      "disabled": false,
+      "label": "Rogue Sport",
+      "value": "NISROGSPT"
+    },
+    {
+      "disabled": false,
+      "label": "Sentra",
+      "value": "SENTRA"
+    },
+    {
+      "disabled": false,
+      "label": "Stanza",
+      "value": "STANZA"
+    },
+    {
+      "disabled": false,
+      "label": "Titan",
+      "value": "TITAN"
+    },
+    {
+      "disabled": false,
+      "label": "Van",
+      "value": "NISVAN"
+    },
+    {
+      "disabled": false,
+      "label": "Versa",
+      "value": "VERSA"
+    },
+    {
+      "disabled": false,
+      "label": "Versa Note",
+      "value": "NISVERSNOT"
+    },
+    {
+      "disabled": false,
+      "label": "Xterra",
+      "value": "XTERRA"
+    },
+    {
+      "disabled": false,
+      "label": "Z",
+      "value": "NISSANZ"
+    }
+  ],
+  "OLDS": [
+    {
+      "disabled": false,
+      "label": "88",
+      "value": "88"
+    },
+    {
+      "disabled": false,
+      "label": "Achieva",
+      "value": "ACHIEV"
+    },
+    {
+      "disabled": false,
+      "label": "Alero",
+      "value": "ALERO"
+    },
+    {
+      "disabled": false,
+      "label": "Aurora",
+      "value": "AURORA"
+    },
+    {
+      "disabled": false,
+      "label": "Bravada",
+      "value": "BRAV"
+    },
+    {
+      "disabled": false,
+      "label": "Custom Cruiser",
+      "value": "CUCR"
+    },
+    {
+      "disabled": false,
+      "label": "Cutlass",
+      "value": "OLDCUS"
+    },
+    {
+      "disabled": false,
+      "label": "Cutlass Calais",
+      "value": "OLDCALAIS"
+    },
+    {
+      "disabled": false,
+      "label": "Cutlass Ciera",
+      "value": "CIERA"
+    },
+    {
+      "disabled": false,
+      "label": "Cutlass Supreme",
+      "value": "CSUPR"
+    },
+    {
+      "disabled": false,
+      "label": "Firenza",
+      "value": "OLDSFIR"
+    },
+    {
+      "disabled": false,
+      "label": "Intrigue",
+      "value": "INTRIG"
+    },
+    {
+      "disabled": false,
+      "label": "Ninety-Eight",
+      "value": "98"
+    },
+    {
+      "disabled": false,
+      "label": "Omega",
+      "value": "OMEG"
+    },
+    {
+      "disabled": false,
+      "label": "Other Oldsmobile Models",
+      "value": "OLDOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Regency",
+      "value": "REGEN"
+    },
+    {
+      "disabled": false,
+      "label": "Silhouette",
+      "value": "SILHO"
+    },
+    {
+      "disabled": false,
+      "label": "Toronado",
+      "value": "TORO"
+    }
+  ],
+  "PLYM": [
+    {
+      "disabled": false,
+      "label": "Acclaim",
+      "value": "ACC"
+    },
+    {
+      "disabled": false,
+      "label": "Arrow",
+      "value": "ARROW"
+    },
+    {
+      "disabled": false,
+      "label": "Breeze",
+      "value": "BREEZE"
+    },
+    {
+      "disabled": false,
+      "label": "Caravelle",
+      "value": "CARAVE"
+    },
+    {
+      "disabled": false,
+      "label": "Champ",
+      "value": "CHAMP"
+    },
+    {
+      "disabled": false,
+      "label": "Colt",
+      "value": "COLT"
+    },
+    {
+      "disabled": false,
+      "label": "Conquest",
+      "value": "PLYMCONQ"
+    },
+    {
+      "disabled": false,
+      "label": "Gran Fury",
+      "value": "GRANFURY"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Voyager",
+      "value": "PLYMGRANV"
+    },
+    {
+      "disabled": false,
+      "label": "Horizon",
+      "value": "HORI"
+    },
+    {
+      "disabled": false,
+      "label": "Laser",
+      "value": "LASER"
+    },
+    {
+      "disabled": false,
+      "label": "Neon",
+      "value": "NEON"
+    },
+    {
+      "disabled": false,
+      "label": "Other Plymouth Models",
+      "value": "PLYOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Prowler",
+      "value": "PROWLE"
+    },
+    {
+      "disabled": false,
+      "label": "Reliant",
+      "value": "RELI"
+    },
+    {
+      "disabled": false,
+      "label": "Sapporo",
+      "value": "SAPPOROPLY"
+    },
+    {
+      "disabled": false,
+      "label": "Scamp",
+      "value": "SCAMP"
+    },
+    {
+      "disabled": false,
+      "label": "Sundance",
+      "value": "SUNDAN"
+    },
+    {
+      "disabled": false,
+      "label": "Trailduster",
+      "value": "TRAILDUST"
+    },
+    {
+      "disabled": false,
+      "label": "Turismo",
+      "value": "TURISMO"
+    },
+    {
+      "disabled": false,
+      "label": "Voyager",
+      "value": "VOYA"
+    }
+  ],
+  "POLESTAR": [
+    {
+      "disabled": false,
+      "label": "Polestar 1",
+      "value": "POLESTAR1"
+    },
+    {
+      "disabled": false,
+      "label": "Polestar 2",
+      "value": "POLESTAR2"
+    }
+  ],
+  "PONT": [
+    {
+      "disabled": false,
+      "label": "1000",
+      "value": "T-1000"
+    },
+    {
+      "disabled": false,
+      "label": "6000",
+      "value": "6000"
+    },
+    {
+      "disabled": false,
+      "label": "Aztek",
+      "value": "AZTEK"
+    },
+    {
+      "disabled": false,
+      "label": "Bonneville",
+      "value": "BON"
+    },
+    {
+      "disabled": false,
+      "label": "Catalina",
+      "value": "CATALINA"
+    },
+    {
+      "disabled": false,
+      "label": "Fiero",
+      "value": "FIERO"
+    },
+    {
+      "disabled": false,
+      "label": "Firebird",
+      "value": "FBIRD"
+    },
+    {
+      "disabled": false,
+      "label": "G3",
+      "value": "G3"
+    },
+    {
+      "disabled": false,
+      "label": "G5",
+      "value": "G5"
+    },
+    {
+      "disabled": false,
+      "label": "G6",
+      "value": "G6"
+    },
+    {
+      "disabled": false,
+      "label": "G8",
+      "value": "G8"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Am",
+      "value": "GRNDAM"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Prix",
+      "value": "GP"
+    },
+    {
+      "disabled": false,
+      "label": "GTO",
+      "value": "GTO"
+    },
+    {
+      "disabled": false,
+      "label": "J2000",
+      "value": "J2000"
+    },
+    {
+      "disabled": false,
+      "label": "Le Mans",
+      "value": "LEMANS"
+    },
+    {
+      "disabled": false,
+      "label": "Montana",
+      "value": "MONTANA"
+    },
+    {
+      "disabled": false,
+      "label": "Other Pontiac Models",
+      "value": "PONOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Parisienne",
+      "value": "PARISI"
+    },
+    {
+      "disabled": false,
+      "label": "Phoenix",
+      "value": "PHOENIX"
+    },
+    {
+      "disabled": false,
+      "label": "Safari",
+      "value": "SAFARIPONT"
+    },
+    {
+      "disabled": false,
+      "label": "Solstice",
+      "value": "SOLSTICE"
+    },
+    {
+      "disabled": false,
+      "label": "Sunbird",
+      "value": "SUNBIR"
+    },
+    {
+      "disabled": false,
+      "label": "Sunfire",
+      "value": "SUNFIR"
+    },
+    {
+      "disabled": false,
+      "label": "Torrent",
+      "value": "TORRENT"
+    },
+    {
+      "disabled": false,
+      "label": "Trans Sport",
+      "value": "TS"
+    },
+    {
+      "disabled": false,
+      "label": "Vibe",
+      "value": "VIBE"
+    }
+  ],
+  "POR": [
+    {
+      "disabled": false,
+      "label": "718 Boxster",
+      "value": "POR718BOX"
+    },
+    {
+      "disabled": false,
+      "label": "718 Cayman",
+      "value": "POR718CAY"
+    },
+    {
+      "disabled": false,
+      "label": "911",
+      "value": "911"
+    },
+    {
+      "disabled": false,
+      "label": "918 Spyder",
+      "value": "POR918SPYD"
+    },
+    {
+      "disabled": false,
+      "label": "924",
+      "value": "924"
+    },
+    {
+      "disabled": false,
+      "label": "928",
+      "value": "928"
+    },
+    {
+      "disabled": false,
+      "label": "944",
+      "value": "944"
+    },
+    {
+      "disabled": false,
+      "label": "968",
+      "value": "968"
+    },
+    {
+      "disabled": false,
+      "label": "Boxster",
+      "value": "BOXSTE"
+    },
+    {
+      "disabled": false,
+      "label": "Carrera GT",
+      "value": "CARRERAGT"
+    },
+    {
+      "disabled": false,
+      "label": "Cayenne",
+      "value": "CAYENNE"
+    },
+    {
+      "disabled": false,
+      "label": "Cayman",
+      "value": "CAYMAN"
+    },
+    {
+      "disabled": false,
+      "label": "Macan",
+      "value": "PORMACAN"
+    },
+    {
+      "disabled": false,
+      "label": "Other Porsche Models",
+      "value": "POROTH"
+    },
+    {
+      "disabled": false,
+      "label": "Panamera",
+      "value": "PANAMERA"
+    },
+    {
+      "disabled": false,
+      "label": "Taycan",
+      "value": "PORTAYCAN"
+    }
+  ],
+  "RAM": [
+    {
+      "disabled": false,
+      "label": "1500",
+      "value": "RM1500"
+    },
+    {
+      "disabled": false,
+      "label": "2500",
+      "value": "RM2500"
+    },
+    {
+      "disabled": false,
+      "label": "3500",
+      "value": "RM3500"
+    },
+    {
+      "disabled": false,
+      "label": "4500",
+      "value": "RM4500"
+    },
+    {
+      "disabled": false,
+      "label": "5500",
+      "value": "RM5500"
+    },
+    {
+      "disabled": false,
+      "label": "C/V",
+      "value": "RMCV"
+    },
+    {
+      "disabled": false,
+      "label": "ProMaster",
+      "value": "RMPROMAST"
+    },
+    {
+      "disabled": false,
+      "label": "ProMaster City",
+      "value": "RMPROCITY"
+    }
+  ],
+  "RIVIAN": [
+    {
+      "disabled": false,
+      "label": "R1S",
+      "value": "RIVIANR1S"
+    },
+    {
+      "disabled": false,
+      "label": "R1T",
+      "value": "RIVIANR1T"
+    }
+  ],
+  "RR": [
+    {
+      "disabled": false,
+      "label": "Camargue",
+      "value": "CAMAR"
+    },
+    {
+      "disabled": false,
+      "label": "Corniche",
+      "value": "CORN"
+    },
+    {
+      "disabled": false,
+      "label": "Cullinan",
+      "value": "RRCULLINAN"
+    },
+    {
+      "disabled": false,
+      "label": "Dawn",
+      "value": "RRDAWN"
+    },
+    {
+      "disabled": false,
+      "label": "Ghost",
+      "value": "GHOST"
+    },
+    {
+      "disabled": false,
+      "label": "Other Rolls-Royce Models",
+      "value": "RROTH"
+    },
+    {
+      "disabled": false,
+      "label": "Park Ward",
+      "value": "PARKWARD"
+    },
+    {
+      "disabled": false,
+      "label": "Phantom",
+      "value": "PHANT"
+    },
+    {
+      "disabled": false,
+      "label": "Silver Dawn",
+      "value": "DAWN"
+    },
+    {
+      "disabled": false,
+      "label": "Silver Seraph",
+      "value": "SILSERAPH"
+    },
+    {
+      "disabled": false,
+      "label": "Silver Spirit",
+      "value": "RRSPIR"
+    },
+    {
+      "disabled": false,
+      "label": "Silver Spur",
+      "value": "SPUR"
+    },
+    {
+      "disabled": false,
+      "label": "Wraith",
+      "value": "WRAI"
+    }
+  ],
+  "SAAB": [
+    {
+      "disabled": false,
+      "label": "9-2X",
+      "value": "9-2X"
+    },
+    {
+      "disabled": false,
+      "label": "9-3",
+      "value": "9-3"
+    },
+    {
+      "disabled": false,
+      "label": "9-4X",
+      "value": "9-4X"
+    },
+    {
+      "disabled": false,
+      "label": "9-5",
+      "value": "9-5"
+    },
+    {
+      "disabled": false,
+      "label": "9-7X",
+      "value": "97X"
+    },
+    {
+      "disabled": false,
+      "label": "900",
+      "value": "900"
+    },
+    {
+      "disabled": false,
+      "label": "9000",
+      "value": "9000"
+    },
+    {
+      "disabled": false,
+      "label": "Other Saab Models",
+      "value": "SAOTH"
+    }
+  ],
+  "SATURN": [
+    {
+      "disabled": false,
+      "label": "Astra",
+      "value": "ASTRA"
+    },
+    {
+      "disabled": false,
+      "label": "Aura",
+      "value": "AURA"
+    },
+    {
+      "disabled": false,
+      "label": "ION",
+      "value": "ION"
+    },
+    {
+      "disabled": false,
+      "label": "L-Series",
+      "value": "SATLSE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Saturn Models",
+      "value": "SATOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Outlook",
+      "value": "OUTLOOK"
+    },
+    {
+      "disabled": false,
+      "label": "Relay",
+      "value": "RELAY"
+    },
+    {
+      "disabled": false,
+      "label": "S-Series",
+      "value": "SATSSE"
+    },
+    {
+      "disabled": false,
+      "label": "Sky",
+      "value": "SKY"
+    },
+    {
+      "disabled": false,
+      "label": "Vue",
+      "value": "VUE"
+    }
+  ],
+  "SCION": [
+    {
+      "disabled": false,
+      "label": "FR-S",
+      "value": "SCIFRS"
+    },
+    {
+      "disabled": false,
+      "label": "iA",
+      "value": "SCIIA"
+    },
+    {
+      "disabled": false,
+      "label": "iM",
+      "value": "SCIIM"
+    },
+    {
+      "disabled": false,
+      "label": "iQ",
+      "value": "IQ"
+    },
+    {
+      "disabled": false,
+      "label": "tC",
+      "value": "TC"
+    },
+    {
+      "disabled": false,
+      "label": "xA",
+      "value": "XA"
+    },
+    {
+      "disabled": false,
+      "label": "xB",
+      "value": "XB"
+    },
+    {
+      "disabled": false,
+      "label": "xD",
+      "value": "XD"
+    }
+  ],
+  "SMART": [
+    {
+      "disabled": false,
+      "label": "fortwo",
+      "value": "FORTWO"
+    },
+    {
+      "disabled": false,
+      "label": "Other smart Models",
+      "value": "SMOTH"
+    }
+  ],
+  "SUB": [
+    {
+      "disabled": false,
+      "label": "Ascent",
+      "value": "SUBASCENT"
+    },
+    {
+      "disabled": false,
+      "label": "Baja",
+      "value": "BAJA"
+    },
+    {
+      "disabled": false,
+      "label": "Brat",
+      "value": "BRAT"
+    },
+    {
+      "disabled": false,
+      "label": "BRZ",
+      "value": "SUBBRZ"
+    },
+    {
+      "disabled": false,
+      "label": "Crosstrek",
+      "value": "SUBCRSSTRK"
+    },
+    {
+      "disabled": false,
+      "label": "Forester",
+      "value": "FOREST"
+    },
+    {
+      "disabled": false,
+      "label": "Impreza",
+      "value": "IMPREZ"
+    },
+    {
+      "disabled": false,
+      "label": "Impreza WRX",
+      "value": "IMPWRX"
+    },
+    {
+      "disabled": false,
+      "label": "Justy",
+      "value": "JUSTY"
+    },
+    {
+      "disabled": false,
+      "label": "L Series",
+      "value": "SUBL"
+    },
+    {
+      "disabled": false,
+      "label": "Legacy",
+      "value": "LEGACY"
+    },
+    {
+      "disabled": false,
+      "label": "Loyale",
+      "value": "LOYALE"
+    },
+    {
+      "disabled": false,
+      "label": "Other Subaru Models",
+      "value": "SUBOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Outback",
+      "value": "SUBOUTBK"
+    },
+    {
+      "disabled": false,
+      "label": "Solterra",
+      "value": "SUBSOLTERR"
+    },
+    {
+      "disabled": false,
+      "label": "SVX",
+      "value": "SVX"
+    },
+    {
+      "disabled": false,
+      "label": "Tribeca",
+      "value": "B9TRIBECA"
+    },
+    {
+      "disabled": false,
+      "label": "WRX",
+      "value": "SUBWRX"
+    },
+    {
+      "disabled": false,
+      "label": "XT",
+      "value": "XT"
+    },
+    {
+      "disabled": false,
+      "label": "XV Crosstrek",
+      "value": "XVCRSSTREK"
+    }
+  ],
+  "SUZUKI": [
+    {
+      "disabled": false,
+      "label": "Aerio",
+      "value": "AERIO"
+    },
+    {
+      "disabled": false,
+      "label": "Equator",
+      "value": "EQUATOR"
+    },
+    {
+      "disabled": false,
+      "label": "Esteem",
+      "value": "ESTEEM"
+    },
+    {
+      "disabled": false,
+      "label": "Forenza",
+      "value": "FORENZA"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Vitara",
+      "value": "GRANDV"
+    },
+    {
+      "disabled": false,
+      "label": "Kizashi",
+      "value": "KIZASHI"
+    },
+    {
+      "disabled": false,
+      "label": "Other Suzuki Models",
+      "value": "SUZOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Reno",
+      "value": "RENO"
+    },
+    {
+      "disabled": false,
+      "label": "Samurai",
+      "value": "SAMUR"
+    },
+    {
+      "disabled": false,
+      "label": "Sidekick",
+      "value": "SIDE"
+    },
+    {
+      "disabled": false,
+      "label": "Swift",
+      "value": "SWIFT"
+    },
+    {
+      "disabled": false,
+      "label": "SX4",
+      "value": "SX4"
+    },
+    {
+      "disabled": false,
+      "label": "Verona",
+      "value": "VERONA"
+    },
+    {
+      "disabled": false,
+      "label": "Vitara",
+      "value": "VITARA"
+    },
+    {
+      "disabled": false,
+      "label": "X-90",
+      "value": "X90"
+    },
+    {
+      "disabled": false,
+      "label": "XL7",
+      "value": "XL7"
+    }
+  ],
+  "TESLA": [
+    {
+      "disabled": false,
+      "label": "Model 3",
+      "value": "TESMOD3"
+    },
+    {
+      "disabled": false,
+      "label": "Model S",
+      "value": "TESMODS"
+    },
+    {
+      "disabled": false,
+      "label": "Model X",
+      "value": "TESMODX"
+    },
+    {
+      "disabled": false,
+      "label": "Model Y",
+      "value": "TESMODY"
+    },
+    {
+      "disabled": false,
+      "label": "Roadster",
+      "value": "ROADSTER"
+    }
+  ],
+  "TOYOTA": [
+    {
+      "disabled": false,
+      "label": "4Runner",
+      "value": "4RUN"
+    },
+    {
+      "disabled": false,
+      "label": "86",
+      "value": "TOY86"
+    },
+    {
+      "disabled": false,
+      "label": "Avalon",
+      "value": "AVALON"
+    },
+    {
+      "disabled": false,
+      "label": "bZ4X",
+      "value": "TOYBZ4X"
+    },
+    {
+      "disabled": false,
+      "label": "C-HR",
+      "value": "TOYCHR"
+    },
+    {
+      "disabled": false,
+      "label": "Camry",
+      "value": "CAMRY"
+    },
+    {
+      "disabled": false,
+      "label": "Celica",
+      "value": "CELICA"
+    },
+    {
+      "disabled": false,
+      "label": "Corolla",
+      "value": "COROL"
+    },
+    {
+      "disabled": false,
+      "label": "Corolla Cross",
+      "value": "TOYCORCROS"
+    },
+    {
+      "disabled": false,
+      "label": "Corona",
+      "value": "CORONA"
+    },
+    {
+      "disabled": false,
+      "label": "Cressida",
+      "value": "CRESS"
+    },
+    {
+      "disabled": false,
+      "label": "Crown",
+      "value": "TOYCROWN"
+    },
+    {
+      "disabled": false,
+      "label": "Echo",
+      "value": "ECHO"
+    },
+    {
+      "disabled": false,
+      "label": "FJ Cruiser",
+      "value": "FJCRUIS"
+    },
+    {
+      "disabled": false,
+      "label": "GR86",
+      "value": "TOYGR86"
+    },
+    {
+      "disabled": false,
+      "label": "Grand Highlander",
+      "value": "TOYGRDHIGH"
+    },
+    {
+      "disabled": false,
+      "label": "Highlander",
+      "value": "HIGHLANDER"
+    },
+    {
+      "disabled": false,
+      "label": "Land Cruiser",
+      "value": "LC"
+    },
+    {
+      "disabled": false,
+      "label": "Matrix",
+      "value": "MATRIX"
+    },
+    {
+      "disabled": false,
+      "label": "Mirai",
+      "value": "TOYMIRAI"
+    },
+    {
+      "disabled": false,
+      "label": "MR2",
+      "value": "MR2"
+    },
+    {
+      "disabled": false,
+      "label": "MR2 Spyder",
+      "value": "MR2SPYDR"
+    },
+    {
+      "disabled": false,
+      "label": "Other Toyota Models",
+      "value": "TOYOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Paseo",
+      "value": "PASEO"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "PICKUP"
+    },
+    {
+      "disabled": false,
+      "label": "Previa",
+      "value": "PREVIA"
+    },
+    {
+      "disabled": false,
+      "label": "Prius",
+      "value": "PRIUS"
+    },
+    {
+      "disabled": false,
+      "label": "Prius C",
+      "value": "PRIUSC"
+    },
+    {
+      "disabled": false,
+      "label": "Prius Prime",
+      "value": "TOYPRIPRM"
+    },
+    {
+      "disabled": false,
+      "label": "Prius V",
+      "value": "PRIUSV"
+    },
+    {
+      "disabled": false,
+      "label": "RAV4",
+      "value": "RAV4"
+    },
+    {
+      "disabled": false,
+      "label": "Sequoia",
+      "value": "SEQUOIA"
+    },
+    {
+      "disabled": false,
+      "label": "Sienna",
+      "value": "SIENNA"
+    },
+    {
+      "disabled": false,
+      "label": "Solara",
+      "value": "SOLARA"
+    },
+    {
+      "disabled": false,
+      "label": "Starlet",
+      "value": "STARLET"
+    },
+    {
+      "disabled": false,
+      "label": "Supra",
+      "value": "SUPRA"
+    },
+    {
+      "disabled": false,
+      "label": "T100",
+      "value": "T100"
+    },
+    {
+      "disabled": false,
+      "label": "Tacoma",
+      "value": "TACOMA"
+    },
+    {
+      "disabled": false,
+      "label": "Tercel",
+      "value": "TERCEL"
+    },
+    {
+      "disabled": false,
+      "label": "Tundra",
+      "value": "TUNDRA"
+    },
+    {
+      "disabled": false,
+      "label": "Van",
+      "value": "TOYVAN"
+    },
+    {
+      "disabled": false,
+      "label": "Venza",
+      "value": "VENZA"
+    },
+    {
+      "disabled": false,
+      "label": "Yaris",
+      "value": "YARIS"
+    }
+  ],
+  "VOLKS": [
+    {
+      "disabled": false,
+      "label": "Arteon",
+      "value": "VOLKSARTE"
+    },
+    {
+      "disabled": false,
+      "label": "Atlas",
+      "value": "VOLKSATL"
+    },
+    {
+      "disabled": false,
+      "label": "Beetle",
+      "value": "BEETLE"
+    },
+    {
+      "disabled": false,
+      "label": "Cabrio",
+      "value": "VOLKSCAB"
+    },
+    {
+      "disabled": false,
+      "label": "Cabriolet",
+      "value": "CAB"
+    },
+    {
+      "disabled": false,
+      "label": "CC",
+      "value": "CC"
+    },
+    {
+      "disabled": false,
+      "label": "Corrado",
+      "value": "CORR"
+    },
+    {
+      "disabled": false,
+      "label": "Dasher",
+      "value": "DASHER"
+    },
+    {
+      "disabled": false,
+      "label": "e-Golf",
+      "value": "VOLKSEGOLF"
+    },
+    {
+      "disabled": false,
+      "label": "Eos",
+      "value": "EOS"
+    },
+    {
+      "disabled": false,
+      "label": "Eurovan",
+      "value": "EUROVAN"
+    },
+    {
+      "disabled": false,
+      "label": "Fox",
+      "value": "VOLKSFOX"
+    },
+    {
+      "disabled": false,
+      "label": "Golf",
+      "value": "GOLF"
+    },
+    {
+      "disabled": false,
+      "label": "Golf R",
+      "value": "GOLFR"
+    },
+    {
+      "disabled": false,
+      "label": "GTI",
+      "value": "GTI"
+    },
+    {
+      "disabled": false,
+      "label": "ID.4",
+      "value": "VOLKSID4"
+    },
+    {
+      "disabled": false,
+      "label": "Jetta",
+      "value": "JET"
+    },
+    {
+      "disabled": false,
+      "label": "Other Volkswagen Models",
+      "value": "VWOTH"
+    },
+    {
+      "disabled": false,
+      "label": "Passat",
+      "value": "PASS"
+    },
+    {
+      "disabled": false,
+      "label": "Phaeton",
+      "value": "PHAETON"
+    },
+    {
+      "disabled": false,
+      "label": "Pickup",
+      "value": "RABBITPU"
+    },
+    {
+      "disabled": false,
+      "label": "Quantum",
+      "value": "QUAN"
+    },
+    {
+      "disabled": false,
+      "label": "R32",
+      "value": "R32"
+    },
+    {
+      "disabled": false,
+      "label": "Rabbit",
+      "value": "RABBIT"
+    },
+    {
+      "disabled": false,
+      "label": "Routan",
+      "value": "ROUTAN"
+    },
+    {
+      "disabled": false,
+      "label": "Scirocco",
+      "value": "SCIR"
+    },
+    {
+      "disabled": false,
+      "label": "Taos",
+      "value": "VOLKSTAOS"
+    },
+    {
+      "disabled": false,
+      "label": "Tiguan",
+      "value": "TIGUAN"
+    },
+    {
+      "disabled": false,
+      "label": "Touareg",
+      "value": "TOUAREG"
+    },
+    {
+      "disabled": false,
+      "label": "Vanagon",
+      "value": "VANAG"
+    }
+  ],
+  "VOLVO": [
+    {
+      "disabled": false,
+      "label": "240",
+      "value": "240"
+    },
+    {
+      "disabled": false,
+      "label": "260",
+      "value": "260"
+    },
+    {
+      "disabled": false,
+      "label": "740",
+      "value": "740"
+    },
+    {
+      "disabled": false,
+      "label": "760",
+      "value": "760"
+    },
+    {
+      "disabled": false,
+      "label": "780",
+      "value": "780"
+    },
+    {
+      "disabled": false,
+      "label": "850",
+      "value": "850"
+    },
+    {
+      "disabled": false,
+      "label": "940",
+      "value": "940"
+    },
+    {
+      "disabled": false,
+      "label": "960",
+      "value": "960"
+    },
+    {
+      "disabled": false,
+      "label": "C30",
+      "value": "C30"
+    },
+    {
+      "disabled": false,
+      "label": "C40",
+      "value": "VOLVOC40"
+    },
+    {
+      "disabled": false,
+      "label": "C70",
+      "value": "C70"
+    },
+    {
+      "disabled": false,
+      "label": "Other Volvo Models",
+      "value": "VOLOTH"
+    },
+    {
+      "disabled": false,
+      "label": "S40",
+      "value": "S40"
+    },
+    {
+      "disabled": false,
+      "label": "S60",
+      "value": "S60"
+    },
+    {
+      "disabled": false,
+      "label": "S70",
+      "value": "S70"
+    },
+    {
+      "disabled": false,
+      "label": "S80",
+      "value": "S80"
+    },
+    {
+      "disabled": false,
+      "label": "S90",
+      "value": "S90"
+    },
+    {
+      "disabled": false,
+      "label": "V40",
+      "value": "V40"
+    },
+    {
+      "disabled": false,
+      "label": "V50",
+      "value": "V50"
+    },
+    {
+      "disabled": false,
+      "label": "V60",
+      "value": "VOLVOV60"
+    },
+    {
+      "disabled": false,
+      "label": "V70",
+      "value": "V70"
+    },
+    {
+      "disabled": false,
+      "label": "V90",
+      "value": "V90"
+    },
+    {
+      "disabled": false,
+      "label": "XC40",
+      "value": "VOLVOXC40"
+    },
+    {
+      "disabled": false,
+      "label": "XC60",
+      "value": "XC60"
+    },
+    {
+      "disabled": false,
+      "label": "XC70",
+      "value": "XC"
+    },
+    {
+      "disabled": false,
+      "label": "XC90",
+      "value": "XC90"
+    }
+  ],
+  "YUGO": [
+    {
+      "disabled": false,
+      "label": "GV",
+      "value": "GV"
+    },
+    {
+      "disabled": false,
+      "label": "GVL",
+      "value": "GVL"
+    },
+    {
+      "disabled": false,
+      "label": "GVX",
+      "value": "GVX"
+    },
+    {
+      "disabled": false,
+      "label": "Other Yugo Models",
+      "value": "YUOTH"
+    }
+  ]
+}
